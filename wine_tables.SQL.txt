@@ -1,0 +1,56 @@
+CREATE TABLE White_Wines(
+	Name CHAR,
+	Country CHAR,
+	Region CHAR,
+	Winery CHAR,
+	Rating INTEGER,
+	Num_of_Ratings INTEGER,
+	Price INTEGER,
+	Year DATE,
+	PRIMARY KEY (Name)
+	);
+CREATE TABLE Red_Wines(
+	Name CHAR,
+	Country CHAR,
+	Region CHAR,
+	Winery CHAR,
+	Rating INTEGER,
+	Num_of_Ratings INTEGER,
+	Price INTEGER,
+	Year DATE,
+	PRIMARY KEY (Name)
+	);
+CREATE TABLE Sparkling_Wines(
+	Name CHAR,
+	Country CHAR,
+	Region CHAR,
+	Winery CHAR,
+	Rating INTEGER,
+	Num_of_Ratings INTEGER,
+	Price INTEGER,
+	Year DATE,
+	PRIMARY KEY (Name)
+	);	
+CREATE TABLE Rose_Wines(
+	Name CHAR,
+	Country CHAR,
+	Region CHAR,
+	Winery CHAR,
+	Rating INTEGER,
+	Num_of_Ratings INTEGER,
+	Price INTEGER,
+	Year DATE,
+	PRIMARY KEY (Name)
+	);	
+CREATE TABLE Wine_Mag_150(
+	Country CHAR,
+	Description CHAR,
+	Designation CHAR,
+	Points INTEGER,
+	Price INTEGER,
+	Province CHAR,
+	Region_1 CHAR,
+	Region_2 CHAR,
+	Variety CHAR,
+	Winery CHAR
+);	
