@@ -27,6 +27,17 @@ Group project to determine how which wines are good based on consumer reports an
 *Advanced goal*
 - Use javascript/html using sales data from wine vendors to map out vendors selling recommended wines in given region (would require input from user)
 
+### Communication Protocols
+Each team member has an individual GitHub branch. When a branch is ready to be merged with the main branch, team members will create a pull request. The Square role will review and approve all pull requests. 
+
+Slack is used for discussions about project planning and excecution.
+
+### Roles
+- Square: Chelsea
+- Triangle: Paige
+- Circle: Gina
+- X: Jess
+
 ### Data
 - Wine variety csv files (“Red.csv”, ”White.csv”, ”Rose.csv”, ”Sparkling.csv”)
 - Wine Magazine top 150K Wines ([Kaggle](https://www.kaggle.com/zynicide/wine-reviews?select=winemag-data_first150k.csv))
