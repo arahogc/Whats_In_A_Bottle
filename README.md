@@ -16,6 +16,10 @@ Group project to determine how which wines are good based on consumer reports an
 
 * The cleaned (in-progess) dataframe was saved to a csv file and uploaded to S3. 
 
+4-14-21
+* Continued preprocessing the data. Binned categorical columns and encoded the dataframe. 
+* ![Link to AWS S3 bucket](https://whats-in-a-bottle.s3-us-west-1.amazonaws.com)
+
 ### Outline
 ![](Resources/Images/outline.png)
 
