@@ -7,3 +7,7 @@ Group project to determine how which wines are good based on consumer reports an
 * A png of the ERD from QuickDBD has been downloaded. 
 * I have a dataset that is too large to upload directly. I will have to find out how to load a large dataset to a branch (or main) if we need to include it.
 
+#### Gina 4_14_21
+I am researching how to convert regions into latitudes and longitudes so that we can map the wine regions.
+* https://researchguides.uoregon.edu/geocoding/free-batch
+* https://towardsdatascience.com/pythons-geocoding-convert-a-list-of-addresses-into-a-map-f522ef513fd6
