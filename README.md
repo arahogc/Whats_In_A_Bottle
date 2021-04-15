@@ -18,7 +18,7 @@ Group project to determine how which wines are good based on consumer reports an
 
 4-14-21
 * Continued preprocessing the data. Binned categorical columns and encoded the dataframe. 
-* ![Link to AWS S3 bucket](https://whats-in-a-bottle.s3-us-west-1.amazonaws.com)
+* ![Link to AWS S3 bucket](https://s3.console.aws.amazon.com/s3/buckets/whats-in-a-bottle?region=us-west-1&tab=objects)
 
 ### Outline
 ![](Resources/Images/outline.png)
