@@ -1,0 +1,1237 @@
+Location,location,point
+"Napa Valley, California, US","Napa, Napa County, California, United States","(38.2971367, -122.2855293, 0.0)"
+"Toro, Northern Spain, Spain",,
+"Knights Valley, California, US","Knights Ferry, Stanislaus County, California, United States","(37.8196499, -120.6721494, 0.0)"
+"Willamette Valley, Oregon, US","Willamette, West Linn, Metro, Clackamas County, Oregon, 97068, United States","(45.3444247, -122.6583007, 0.0)"
+"Bandol, Provence, France","Bandol, Toulon, Var, Provence-Alpes-Côte d'Azur, France métropolitaine, 83150, France","(43.1357717, 5.7523647, 0.0)"
+"Chehalem Mountains, Oregon, US","Chehalem Mountains, Washington County, Oregon, United States","(45.3676909, -123.00640669254446, 0.0)"
+"Sonoma Coast, California, US","Sonoma Coast State Beach Russian Gulch, Coast Highway, Fort Ross, Sonoma County, California, 95450, United States","(38.47023425, -123.15474461850283, 0.0)"
+"Collio, Northeastern Italy, Italy",,
+"Ribbon Ridge, Oregon, US","Ribbon Ridge AVA, Yamhill County, Oregon, United States","(45.36636715, -123.0699902880977, 0.0)"
+"Dundee Hills, Oregon, US","Red Hills of Dundee, Dundee, Yamhill County, Oregon, 97115, United States","(45.286564, -123.07406430242298, 0.0)"
+"Madiran, Southwest France, France","Madiran, Tarbes, Hautes-Pyrénées, Occitanie, France métropolitaine, 65700, France","(43.5502022, -0.0580853, 0.0)"
+"Diamond Mountain District, California, US",,
+"Ribera del Duero, Northern Spain, Spain",,
+"Cahors, Southwest France, France","Cahors, Lot, Occitanie, France métropolitaine, 46000, France","(44.4495, 1.4364999, 0.0)"
+"Rioja, Northern Spain, Spain",,
+"Edna Valley, California, US","Edna, San Luis Obispo County, California, United States","(35.2038641, -120.6129476, 0.0)"
+"Santa Cruz Mountains, California, US","Santa Cruz Mountains, California, 95033, United States","(37.2117409, -122.0582599, 0.0)"
+"Santa Lucia Highlands, California, US","The Highlands, Anaheim, Orange County, California, 92808, United States","(33.8462109, -117.7412629, 0.0)"
+"Walla Walla Valley (WA), Washington, US","Walla Walla, Walla Walla County, Washington, United States","(46.0667277, -118.3393456, 0.0)"
+"Russian River Valley, California, US","Russian River, Redwood Valley, Mendocino County, California, 95418, United States","(39.2807189, -123.2098085, 0.0)"
+"Brunello di Montalcino, Tuscany, Italy","Strada Provinciale del Brunello, I Colli, Montalcino, Siena, Toscana, 53024, Italia","(43.0525059, 11.5049862, 0.0)"
+"Vin Mousseux, France Other, France",,
+"Columbia Valley (WA), Washington, US","Columbia, Rainier Valley, Seattle, King County, Washington, 98118, United States","(47.5639879, -122.2754019, 0.0)"
+"Châteauneuf-du-Pape, Rhône Valley, France","Chemin du Plan du Rhône, Châteauneuf-du-Pape, Carpentras, Vaucluse, Provence-Alpes-Côte d'Azur, France métropolitaine, 84230, France","(44.0382496, 4.845788, 0.0)"
+"Vino Nobile di Montepulciano, Tuscany, Italy","La Locanda del Vino Nobile, 1, SS146, Chianciano, Chianciano Terme, Unione dei Comuni Valdichiana Senese, Siena, Toscana, 53042, Italia","(43.0716141, 11.8054571, 0.0)"
+"Chianti Classico, Tuscany, Italy","Via del Chianti Classico, Monteriggioni, Siena, Toscana, Italia","(43.3932476, 11.3086645, 0.0)"
+"Ribeira Sacra, Galicia, Spain","Ribeira Sacra, 17, Rúa do Conde, Monforte de Lemos, Terra de Lemos, Galicia, 27400, España","(42.5195881, -7.5141181, 0.0)"
+"Jerez, Andalucia, Spain","Jerez de la Frontera, Campiña de Jerez, Cádiz, Andalucía, España","(36.6816936, -6.1377402, 0.0)"
+"Cornas, Rhône Valley, France","Cornas, Tournon-sur-Rhône, Ardèche, Auvergne-Rhône-Alpes, France métropolitaine, 07130, France","(44.963521, 4.847545, 0.0)"
+"Mount Veeder, California, US","Mount Veeder, Napa County, California, 94576, United States","(38.3793566, -122.4477575, 0.0)"
+"Red Mountain, Washington, US","Red Mountain, Skagit County, Washington, United States","(48.6004074, -120.986781, 0.0)"
+"Chassagne-Montrachet, Burgundy, France",,
+"Sancerre, Loire Valley, France","Sancerre, Bourges, Cher, Centre-Val de Loire, France métropolitaine, 18300, France","(47.3307251, 2.8390333, 0.0)"
+"Coteaux du Giennois, Loire Valley, France","Rue des Coteaux du Giennois, Les Maisons Neuves de Gien, Gien, Montargis, Loiret, Centre-Val de Loire, France métropolitaine, 45500, France","(47.6831795, 2.6534443, 0.0)"
+"Finger Lakes, New York, US","Finger Lakes National Forest, Lodi Town, Schuyler County, New York, United States","(42.5056751, -76.77237863157347, 0.0)"
+"Maremma Toscana, Tuscany, Italy","La Maremma, Via Giuseppe Verdi, San Niccolò, Quartiere 1, Firenze, Toscana, 50122, Italia","(43.7697164, 11.2612205, 0.0)"
+"Mendoza, Mendoza Province, Argentina","Mendoza, El Trencito, Río Gallegos, Municipio de Río Gallegos, Güer Aike, Santa Cruz, ´9400, Argentina","(-51.6121723, -69.2241958, 0.0)"
+"Mornington Peninsula, Victoria, Australia","Mornington District, Melbourne, Shire of Mornington Peninsula, Victoria, Australia","(-38.243314999999996, 145.08854316331724, 0.0)"
+"Chablis, Burgundy, France","Chablis Street, Burgundy Estate, Cape Town Ward 1, City of Cape Town, Western Cape, South Africa","(-33.8381306, 18.5470143, 0.0)"
+"Santa Clara Valley, California, US","Santa Clara County, California, United States","(37.2333253, -121.6846349, 0.0)"
+"Eola-Amity Hills, Oregon, US","Eola-Amity Hills AVA, Polk County, Oregon, United States","(44.969579100000004, -123.15190753320422, 0.0)"
+"Rutherford, California, US","Rutherford, Napa County, California, 94573, United States","(38.458521, -122.422479, 0.0)"
+"St. Helena, California, US","St. Helena, Napa County, California, 94574, United States","(38.5052288, -122.4700424, 0.0)"
+"Barolo, Piedmont, Italy",,
+"Champagne, Champagne, France","La Champagne, Bernay-en-Champagne, Bernay-Neuvy-en-Champagne, Mamers, Sarthe, Pays de la Loire, France métropolitaine, 72240, France","(48.0668611, -0.0460854, 0.0)"
+"Roero, Piedmont, Italy",,
+"California, California, US","California, 2211, North California Avenue, Maplewood, Logan Square, Chicago, Cook County, Illinois, 60647, United States","(41.9221873, -87.697195, 0.0)"
+"Prosecco, Veneto, Italy","Via del Prosecco, Fontana, Col San Martino, Farra di Soligo, Treviso, Veneto, Italia","(45.9023795, 12.0923802, 0.0)"
+"Mendocino County, California, US","Mendocino County, California, United States","(39.3176491, -123.4126399, 0.0)"
+"Sonoma Valley, California, US","Sonoma County, California, United States","(38.5110803, -122.8473388, 0.0)"
+"Buzet, Southwest France, France","Buzet, Montfort-en-Chalosse, Arrondissement de Dax, Landes, Nouvelle-Aquitaine, France métropolitaine, 40380, France","(43.7096644, -0.8313243, 0.0)"
+"Côtes de Gascogne, Southwest France, France",,
+"South Coast, California, US","South Coast, Newport Avenue, Ocean Beach, San Diego, San Diego County, California, 92107, United States","(32.7469891, -117.2516124, 0.0)"
+"Paso Robles, California, US","Paso Robles, San Luis Obispo County, California, 93447, United States","(35.6267654, -120.6912456, 0.0)"
+"Yakima Valley, Washington, US","Yakima, Yakima County, Washington, United States","(46.601557, -120.5108421, 0.0)"
+"Lodi, California, US","Lodi, San Joaquin County, California, United States","(38.097198, -121.3878496465736, 0.0)"
+"Tupungato, Mendoza Province, Argentina","Tupungato, Sepulveda, Municipio de Allen, Departamento General Roca, Río Negro, R8328ASB, Argentina","(-38.9809013, -67.841087, 0.0)"
+"Howell Mountain, California, US","Howell Mountain, Napa County, California, 94508, United States","(38.5812999, -122.4510974, 0.0)"
+"Hudson River Region, New York, US",,
+"Valle de Uco, Mendoza Province, Argentina",,
+"Jumilla, Levante, Spain","Ocio Digital Jumilla, Avenida de Levante, La Estacada, Jumilla, Altiplano, Región de Murcia, 30520, España","(38.4740804, -1.3262211, 0.0)"
+"Gaillac, Southwest France, France","Gaillac, Albi, Tarn, Occitanie, France métropolitaine, 81600, France","(43.9016766, 1.8967943, 0.0)"
+"Anderson Valley, California, US","Anderson Valley, Mendocino County, California, United States","(39.0600021, -123.4305338, 0.0)"
+"Santa Maria Valley, California, US","Santa Maria Valley, San Luis Obispo County, California, 93434, United States","(34.9941664, -120.557098, 0.0)"
+"Amador County, California, US","Amador County, California, United States","(38.449089, -120.5911018, 0.0)"
+"Etna, Sicily & Sardinia, Italy",,
+"Greco di Tufo, Southern Italy, Italy",,
+"Sonoma County, California, US","Sonoma County, California, United States","(38.5110803, -122.8473388, 0.0)"
+"Adelaida District, California, US",,
+"Coteaux du Languedoc Pic Saint Loup, Languedoc-Roussillon, France",,
+"Bordeaux Rosé, Bordeaux, France","Le Bordeaux, Rue Rolland, Triangle d'Or, Bordeaux Centre, Bordeaux, Gironde, Nouvelle-Aquitaine, France métropolitaine, 33000, France","(44.8427203, -0.5813239, 0.0)"
+"Applegate Valley, Oregon, US","Applegate, Jackson County, Oregon, United States","(42.2570634, -123.1682392, 0.0)"
+"Rías Baixas, Galicia, Spain","Rías Baixas, 82, Rúa do Progreso, Padriñán, Sanxenxo, O Salnés, Pontevedra, Galicia, 36960, España","(42.4024738, -8.8083575, 0.0)"
+"Sta. Rita Hills, California, US","El Rita Drive, Hollywood Hills West, Los Angeles, Los Angeles County, California, 90046-1128, United States","(34.1196813, -118.3760193, 0.0)"
+"Ballard Canyon, California, US","Ballard, Myford, Lower Peters Canyon, Irvine, Orange County, California, 92602, United States","(33.7293637, -117.7793546, 0.0)"
+"Cava, Catalonia, Spain","Cava, Alt Urgell, Lleida, Catalunya, 25722, España","(42.31658175, 1.6111496867672197, 0.0)"
+"Rogue Valley, Oregon, US","The Green Door, 1001, Southeast 9th Avenue, Central Eastside, Buckman, Portland, Metro, Multnomah County, Oregon, 97214, United States","(45.5155088, -122.65702358653776, 0.0)"
+"Happy Canyon of Santa Barbara, California, US","Happy Canyon Road, Santa Barbara County, California, 93460, United States","(34.624913, -119.982551, 0.0)"
+"Oregon, Oregon, US","Eugene, Lane County, Oregon, United States","(44.0505054, -123.0950506, 0.0)"
+"Dunnigan Hills, California, US",,
+"Toscana, Tuscany, Italy","La Capannaccia, SP43, Sereni, Chiassa Superiore, Arezzo, Toscana, Italia","(43.5248239, 11.9066895, 0.0)"
+"Livermore Valley, California, US","Livermore, Alameda County, California, 94550, United States","(37.6820583, -121.7680531, 0.0)"
+"Côtes du Rhône, Rhône Valley, France","La France, Les Côtes-d'Arey, Vienne, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38138, France","(45.4669313, 4.9005005, 0.0)"
+"Luján de Cuyo, Mendoza Province, Argentina","Luján de Cuyo, Grand Bourg, Partido de Malvinas Argentinas, Buenos Aires, B1665, Argentina","(-34.5009474, -58.7449228, 0.0)"
+"Valdeorras, Northern Spain, Spain",,
+"Montsant, Catalonia, Spain","Montsant, Carrer del Riu Montsant, Torreforta, Tarragona, Tarragonès, Tarragona, Catalunya, 43001, España","(41.117055, 1.2110712, 0.0)"
+"Graves, Bordeaux, France","Graves, Rue Thomas Edison, France Alouette, Canéjan, Bordeaux, Nouvelle-Aquitaine, France métropolitaine, France","(44.7760791, -0.6523275464905922, 0.0)"
+"Haut-Médoc, Bordeaux, France","Rue du Haut Médoc, Migron, Eysines, Bordeaux, Nouvelle-Aquitaine, France métropolitaine, 33320, France","(44.8735122, -0.636612, 0.0)"
+"Saint-Estèphe, Bordeaux, France","Saint-Estèphe, Boulevard Jacques Chaban-Delmas, Villabois, Bruges, Bordeaux, Gironde, Nouvelle-Aquitaine, France métropolitaine, 33520, France","(44.8973682, -0.58424555, 0.0)"
+"Fronsac, Bordeaux, France","Allée de Fronsac, Martignas-sur-Jalle, Bordeaux, Nouvelle-Aquitaine, France métropolitaine, 33127, France","(44.8424048, -0.799658, 0.0)"
+"Médoc, Bordeaux, France","Médoc, Rue Thomas Edison, France Alouette, Canéjan, Bordeaux, Nouvelle-Aquitaine, France métropolitaine, France","(44.7761268, -0.6517633127162602, 0.0)"
+"Wahluke Slope, Washington, US","Wahluke Slope Habitat Management Area, Grant County, Washington, United States","(46.7206936, -119.3980773, 0.0)"
+"Barbaresco, Piedmont, Italy",,
+"Rockpile, California, US","Devils Rockpile, Riverside County, California, United States","(33.6453689, -116.5557797, 0.0)"
+"Alsace, Alsace, France","Alsace, Avenue de l'Europe, Laxou, Nancy, Meurthe-et-Moselle, Grand Est, France métropolitaine, 54520, France","(48.68046425, 6.151336022559807, 0.0)"
+"Sauternes, Bordeaux, France","Rue de Sauternes, Martignas-sur-Jalle, Bordeaux, Nouvelle-Aquitaine, France métropolitaine, 33127, France","(44.8414205, -0.7997609, 0.0)"
+"Fort Ross-Seaview, California, US","Fort Ross Elementary School, Seaview Road, Seaview, Sonoma County, California, United States","(38.5571348, -123.2644524, 0.0)"
+"Santa Barbara County, California, US","Santa Barbara County, California, United States","(34.7136533, -119.9858232, 0.0)"
+"Horse Heaven Hills, Washington, US",,
+"Blaye Côtes de Bordeaux, Bordeaux, France",,
+"Bordeaux Blanc, Bordeaux, France","Avenue de Bordeaux, Carbon-Blanc, Bordeaux, Nouvelle-Aquitaine, France métropolitaine, 33560, France","(44.8898549, -0.5038666, 0.0)"
+"Pessac-Léognan, Bordeaux, France",,
+"Côtes de Bourg, Bordeaux, France",,
+"Carneros, California, US","Village at Los Carneros, Goleta, Santa Barbara County, California, United States","(34.4346233, -119.8594792262155, 0.0)"
+"McMinnville, Oregon, US","McMinnville, Yamhill County, Oregon, 97128, United States","(45.2100367, -123.194463, 0.0)"
+"Central Coast, California, US","Cartoon Network West Coast, East Palm Avenue, Burbank, Los Angeles County, California, 91502, United States","(34.1845916, -118.3088466, 0.0)"
+"Cigales, Northern Spain, Spain",,
+"La Mancha, Central Spain, Spain","VESTAS Spain, Avenida de los Vientos, Polígono Industrial ""CIDAG"", Daimiel, La Mancha, Ciudad Real, Castilla-La Mancha, 13250, España","(39.0442636, -3.58498245567418, 0.0)"
+"Crémant de Loire, Loire Valley, France",,
+"Monterey County, California, US","Monterey County, California, United States","(36.2231079, -121.3877428, 0.0)"
+"Agrelo, Mendoza Province, Argentina","Agrelo, José C. Paz, Partido de José C. Paz, Buenos Aires, 1743, Argentina","(-34.5275497, -58.8024364, 0.0)"
+"Beaune, Burgundy, France",,
+"Coombsville, California, US","Coombsville Road, Napa, Napa County, California, 94558, United States","(38.2962127, -122.260358, 0.0)"
+"Alto Adige, Northeastern Italy, Italy",,
+"Soave Classico, Veneto, Italy",,
+"Santenay, Burgundy, France","Santenay Complex, Burgundy Estate, Cape Town Ward 1, City of Cape Town, Western Cape, South Africa","(-33.841389, 18.5476698, 0.0)"
+"Côtes du Tarn, Southwest France, France","Au bon côtés des choses, Avenue du Père Evariste Huc, Labro, Caylus, Montauban, Tarn-et-Garonne, Occitanie, France métropolitaine, 82160, France","(44.2365873, 1.7689625, 0.0)"
+"Pouilly-Fuissé, Burgundy, France",,
+"Clos de Vougeot, Burgundy, France",,
+"Jurançon Sec, Southwest France, France","Jurançon, Pau, Pyrénées-Atlantiques, Nouvelle-Aquitaine, France métropolitaine, 64110, France","(43.2871825, -0.3896425, 0.0)"
+"Clear Lake, California, US","Clear Lake, Lakeport, Lake County, California, United States","(39.0319478, -122.79947762463578, 0.0)"
+"Amarone della Valpolicella Classico, Veneto, Italy",,
+"Coteaux d'Aix-en-Provence, Provence, France",,
+"Côtes de Provence, Provence, France","Côtes de Provence, Roquebrune-sur-Argens, Draguignan, Var, Provence-Alpes-Côte d'Azur, France métropolitaine, 83520, France","(43.4499127, 6.656105192180794, 0.0)"
+"Paso Robles Willow Creek District, California, US",,
+"Umpqua Valley, Oregon, US","Umpqua, Douglas County, Oregon, United States","(43.3646201, -123.4707511, 0.0)"
+"Gevrey-Chambertin, Burgundy, France",,
+"Vittoria, Sicily & Sardinia, Italy",,
+"Pommard, Burgundy, France",,
+"Sicilia, Sicily & Sardinia, Italy",,
+"Terre Siciliane, Sicily & Sardinia, Italy",,
+"North Coast, California, US","Coast, Ashby Avenue, Claremont, Berkeley, Alameda County, California, 94720-1076, United States","(37.858337, -122.2447394, 0.0)"
+"Dry Creek Valley, California, US","Dry Creek, San Jose, Santa Clara County, California, 95125-3324, United States","(37.2932406, -121.907998, 0.0)"
+"Red Hills Lake County, California, US",,
+"Okanagan Valley, British Columbia, Canada","Regional District of Okanagan-Similkameen, British Columbia, Canada","(49.4658159, -120.2505542, 0.0)"
+"Santa Ynez Valley, California, US","Santa Ynez, Santa Barbara County, California, United States","(34.608637, -120.10467742149733, 0.0)"
+"Côtes du Rhône Villages, Rhône Valley, France","Chemin des Cotes, Le Pin, Villages du Lac de Paladru, La Tour-du-Pin, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38730, France","(45.4559451, 5.5192803, 0.0)"
+"Alexander Valley, California, US","Alexander Valley, Sonoma County, California, United States","(38.6712308, -122.8278697, 0.0)"
+"Spain, Spain Other, Spain",,
+"Bolgheri, Tuscany, Italy","Bolgheri, Castagneto Carducci, Livorno, Toscana, Italia","(43.2340065, 10.6179334, 0.0)"
+"Manzanilla-Sanlúcar de Barrameda, Andalucia, Spain","Avenida de la Manzanilla, Jardines Del Picacho, Sanlúcar de Barrameda, Costa Noroeste, Cádiz, Andalucía, 11540, España","(36.7871222, -6.3480547, 0.0)"
+"Soave, Veneto, Italy","Soave, Verona, Veneto, 37038, Italia","(45.4202303, 11.247722, 0.0)"
+"San Juan, Other, Argentina","Take the Other Road, San Juan County, Utah, United States","(38.436601, -109.377111, 0.0)"
+"Bergerac Sec, Southwest France, France","Bergerac, Avenue du Régiment d'Infanterie, La Madeleine, Bergerac, Dordogne, Nouvelle-Aquitaine, France métropolitaine, 24100, France","(44.857158, 0.48908932660446847, 0.0)"
+"Vino Spumante, Italy Other, Italy",,
+"Carmel Valley, California, US","Carmel Valley, Monterey County, California, United States","(36.48290245, -121.71417288463448, 0.0)"
+"Fronton, Southwest France, France","Fronton, Toulouse, Haute-Garonne, Occitanie, France métropolitaine, 31620, France","(43.840295, 1.390285, 0.0)"
+"Priorat, Catalonia, Spain","Priorat, Tarragona, Catalunya, España","(41.2137983, 0.811623628426715, 0.0)"
+"Green Valley, California, US","Green Valley, Los Angeles County, California, United States","(34.6200885, -118.4131734, 0.0)"
+"Atlas Peak, California, US","Atlas Peak, Napa County, California, United States","(38.4507431, -122.2627529, 0.0)"
+"Beamsville Bench, Ontario, Canada","Beamsville, Lincoln, Niagara Region, Golden Horseshoe, Ontario, L0R 1B0, Canada","(43.1654577, -79.4751839, 0.0)"
+"Columbia Gorge (WA), Washington, US","Columbia Gorge Regional Airport, 45, Tidyman Road, Dallesport, Klickitat County, Washington, 98617, United States","(45.6177902, -121.16635464822362, 0.0)"
+"Sierra Foothills, California, US","Sierra Foothills Academy, 6245, King Road, Loomis, Placer County, California, 95650, United States","(38.82549575, -121.18771214029368, 0.0)"
+"Morey-Saint-Denis, Burgundy, France",,
+"Marsannay, Burgundy, France",,
+"Noto, Sicily & Sardinia, Italy",,
+"Washington, Washington, US","Washington, District of Columbia, United States","(38.8949924, -77.0365581, 0.0)"
+"Ben Lomond Mountain, California, US","Ben Lomond Mountain, Santa Cruz County, California, 95006, United States","(37.1309414, -122.1682351, 0.0)"
+"Vigneti delle Dolomiti, Northeastern Italy, Italy",,
+"Corton, Burgundy, France",,
+"Arroyo Seco, California, US","Arroyo Seco, Pasadena, Los Angeles County, California, United States","(34.1458424, -118.16462255635426, 0.0)"
+"Côtes de Nuits Villages, Burgundy, France",,
+"Adelaide Hills, South Australia, Australia","Adelaide Hills Council, South Australia, Australia","(-34.901351649999995, 138.8293202817461, 0.0)"
+"Barbera d'Asti Superiore, Piedmont, Italy",,
+"Oak Knoll District, California, US","CCRMA, Lomita Drive, Stanford, Santa Clara County, California, 94305-6015, United States","(37.420967000000005, -122.17263007103175, 0.0)"
+"Barbera d'Alba, Piedmont, Italy",,
+"Yarra Valley, Victoria, Australia","Yarra River, Victoria, 3005, Australia","(-37.7295526, 145.4981195, 0.0)"
+"Pouilly-Fumé, Loire Valley, France",,
+"Arroyo Grande Valley, California, US","Arroyo Grande Valley, Arroyo Grande, San Luis Obispo County, California, 93420, United States","(35.1583532, -120.5308411, 0.0)"
+"Carneros-Napa Valley, California, US","Carneros Highway, Napa, Napa County, California, 94559, United States","(38.2585001, -122.3075736, 0.0)"
+"Menetou-Salon, Loire Valley, France","Menetou-Salon, Bourges, Cher, Centre-Val de Loire, France métropolitaine, 18510, France","(47.2315397, 2.4886282, 0.0)"
+"Vino de la Tierra de Castilla, Central Spain, Spain",,
+"Moon Mountain District Sonoma County, California, US",,
+"Tavel, Rhône Valley, France","Rue Marguerite Tavel, Fontaine, Grenoble, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38600, France","(45.1895665, 5.6862456, 0.0)"
+"Argentina, Other, Argentina","Other Look, Belgrano, Bernal Este, Bernal, Partido de Quilmes, Buenos Aires, B1876, Argentina","(-34.7165244, -58.275414, 0.0)"
+"Bergerac Rosé, Southwest France, France","Le Bergerac, Boulevard National, La Belle de Mai, 3e Arrondissement, Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13003, France","(43.3079868, 5.3816721, 0.0)"
+"Coteaux Bourguignons, Burgundy, France",,
+"Delle Venezie, Northeastern Italy, Italy",,
+"Côtes du Lot, Southwest France, France",,
+"Yountville, California, US","Yountville, Napa County, California, United States","(38.4022008, -122.3595063, 0.0)"
+"Bordeaux Supérieur, Bordeaux, France",,
+"Calistoga, California, US","Calistoga, Napa County, California, 94515, United States","(38.5787966, -122.5797054, 0.0)"
+"Bordeaux, Bordeaux, France","Bordeaux, Gironde, Nouvelle-Aquitaine, France métropolitaine, France","(44.841225, -0.5800364, 0.0)"
+"McLaren Vale, South Australia, Australia","McLaren Vale, Adelaide, City of Onkaparinga, South Australia, 5171, Australia","(-35.2172617, 138.5416998, 0.0)"
+"North Fork of Long Island, New York, US",,
+"Lake County, California, US","Lake County, California, United States","(39.0505411, -122.7776556, 0.0)"
+"Cour-Cheverny, Loire Valley, France","Cour-Cheverny, Blois, Loir-et-Cher, Centre-Val de Loire, France métropolitaine, 41700, France","(47.512759, 1.4588243, 0.0)"
+"Aloxe-Corton, Burgundy, France",,
+"Alta Langa, Piedmont, Italy",,
+"Vino da Tavola, Italy Other, Italy",,
+"Langhe, Piedmont, Italy",,
+"San Luis Obispo, California, US","San Luis Obispo County, California, United States","(35.3540209, -120.3757163, 0.0)"
+"Côtes de Provence Sainte-Victoire, Provence, France",,
+"Côtes de Provence La Londe, Provence, France",,
+"Penedès, Catalonia, Spain","PENEDÉS, Autopista de la Mediterrània, l'Arboç, Baix Penedès, Tarragona, Catalunya, 43720, España","(41.2890327, 1.5934545, 0.0)"
+"Valtellina Superiore, Lombardy, Italy",,
+"Oakville, California, US","Oakville, Napa County, California, 94562, United States","(38.4368549, -122.4022007, 0.0)"
+"Mendocino, California, US","Mendocino County, California, United States","(39.3176491, -123.4126399, 0.0)"
+"Tasmania, Tasmania, Australia","University of Tasmania, Alexander Street, Sandy Bay, Hobart, City of Hobart, Tasmania, 7005, Australia","(-42.9070652, 147.32148477624992, 0.0)"
+"Côtes de Bergerac, Southwest France, France","Rue des Côtes de Pécharmant, Château les Farcies du Pech, Bergerac, Dordogne, Nouvelle-Aquitaine, France métropolitaine, 24100, France","(44.8617149, 0.5021455, 0.0)"
+"Venezia Giulia, Northeastern Italy, Italy",,
+"Morgon, Beaujolais, France","Aérodrome de Belleville - Villié-Morgon, Route de Chantemerle, Les Serves, Saint-Jean-d'Ardières, Belleville-en-Beaujolais, Villefranche-sur-Saône, Rhône, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, 69220, France","(46.141154900000004, 4.713263865705778, 0.0)"
+"Saint-Émilion, Bordeaux, France","Hôtel Ibis Bordeaux Saint-Émilion, Aux Grandes Versannes, Saint-Émilion, Libourne, Nouvelle-Aquitaine, France métropolitaine, 33330, France","(44.8923795, -0.1962411, 0.0)"
+"Lugana, Lombardy, Italy","Lugana, Sirmione, Brescia, Lombardia, 25019, Italia","(45.4600534, 10.6196897, 0.0)"
+"Sonoma Mountain, California, US","Sonoma Mountain, Sonoma County, California, United States","(38.3229698, -122.5749837, 0.0)"
+"Virginia, Virginia, US","Virginia, West Virginia Street, Willow Glen, San Jose, Santa Clara County, California, 95110-2939, United States","(37.3197653, -121.8901257, 0.0)"
+"Cafayate, Other, Argentina",,
+"Alto Valle del Río Negro, Other, Argentina",,
+"Bierzo, Northern Spain, Spain",,
+"Eden Valley, South Australia, Australia","Eden Valley, The Barossa Council, South Australia, 5235, Australia","(-34.6666979, 139.12996486291587, 0.0)"
+"Naches Heights, Washington, US","Naches Heights, Yakima County, Washington, United States","(46.6409587, -120.6420137, 0.0)"
+"Long Island, New York, US","Long Island, New York, United States","(40.85149705, -73.0994258107431, 0.0)"
+"Moulis-en-Médoc, Bordeaux, France","Rue de Moulis, Hontane, Le Taillan-Médoc, Bordeaux, Nouvelle-Aquitaine, France métropolitaine, 33320, France","(44.9133416, -0.6837567, 0.0)"
+"Listrac-Médoc, Bordeaux, France","Rue de Listrac, Hontane, Le Taillan-Médoc, Bordeaux, Nouvelle-Aquitaine, France métropolitaine, 33320, France","(44.9133173, -0.6828554, 0.0)"
+"Mercurey, Burgundy, France",,
+"San Luis Obispo County, California, US","San Luis Obispo County, California, United States","(35.3540209, -120.3757163, 0.0)"
+"Saint-Aubin, Burgundy, France",,
+"Seneca Lake, New York, US","Seneca Lake, Watkins Glen, Geneva, Torrey, Schuyler County, New York, United States","(42.62798415, -76.89641403030322, 0.0)"
+"Spring Mountain District, California, US","California, Elm Walk, Washington, District of Columbia, 20227, United States","(38.888897650000004, -77.04040425, 0.0)"
+"Irpinia, Southern Italy, Italy",,
+"Puligny-Montrachet, Burgundy, France",,
+"Meursault, Burgundy, France",,
+"Napa-Sonoma, California, US","Bothe-Napa Valley State Park, Napa County, California, United States","(38.540524149999996, -122.54835743348914, 0.0)"
+"Lalande de Pomerol, Bordeaux, France",,
+"Margaux, Bordeaux, France","Rue de Margaux, Martignas-sur-Jalle, Bordeaux, Nouvelle-Aquitaine, France métropolitaine, 33127, France","(44.8464734, -0.7908978, 0.0)"
+"Mâcon-Villages, Burgundy, France",,
+"Navarra, Northern Spain, Spain",,
+"Cayuga Lake, New York, US","Cayuga Lake, Ithaca, Aurora, Ithaca Town, Tompkins County, New York, United States","(42.697675950000004, -76.7126902611025, 0.0)"
+"Collines Rhôdaniennes, Rhône Valley, France",,
+"New York, New York, US","New York, United States","(40.7127281, -74.0060152, 0.0)"
+"Veronese, Veneto, Italy","Caprino Veronese, Verona, Veneto, 37013, Italia","(45.6059385, 10.7951325, 0.0)"
+"Bolgheri Superiore, Tuscany, Italy",,
+"Terra Alta, Catalonia, Spain","Terra Alta, Tarragona, Catalunya, España","(41.027352300000004, 0.4105997375190444, 0.0)"
+"Campo de Borja, Northern Spain, Spain",,
+"Côtes du Marmandais, Southwest France, France",,
+"Jurançon, Southwest France, France","Jurançon, Pau, Pyrénées-Atlantiques, Nouvelle-Aquitaine, France métropolitaine, 64110, France","(43.2871825, -0.3896425, 0.0)"
+"Terrazze Retiche di Sondrio, Lombardy, Italy",,
+"Temecula Valley, California, US","Temecula, Riverside County, California, United States","(33.4946353, -117.1473661, 0.0)"
+"Paicines, California, US","Paicines, San Benito County, California, 95075-9700, United States","(36.7285708, -121.2785409, 0.0)"
+"Savigny-lès-Beaune, Burgundy, France",,
+"Volnay, Burgundy, France",,
+"Valdepeñas, Central Spain, Spain","Valdepeñas, Paseo de la Estación, Valdepeñas, La Mancha, Ciudad Real, Castilla-La Mancha, 13300, España","(38.7632817, -3.3961361, 0.0)"
+"Uco Valley, Mendoza Province, Argentina","Uco Wine Shop, Pasaje Emilio Amado, Primera Ampliación, El Calafate, Municipio de El Calafate, Lago Argentino, Santa Cruz, Z9405, Argentina","(-50.3383621, -72.2609527, 0.0)"
+"Muscadet Sèvre et Maine, Loire Valley, France",,
+"Shenandoah Valley (CA), California, US","Shenandoah, Frances, Northwood, Irvine, Orange County, California, 92620, United States","(33.7164512, -117.764666, 0.0)"
+"Fiano di Avellino, Southern Italy, Italy",,
+"Southern Oregon, Oregon, US","Southern Oregon University, Wolfard's Alley, Ashland, Jackson County, Oregon, 97520, United States","(42.186606850000004, -122.69679025359596, 0.0)"
+"Mendocino Ridge, California, US","Mendocino County, California, United States","(39.3176491, -123.4126399, 0.0)"
+"Bourgogne Hautes Côtes de Beaune, Burgundy, France",,
+"Vin de France, France Other, France",,
+"Vino de la Tierra de Cádiz, Andalucia, Spain",,
+"Monbazillac, Southwest France, France","Monbazillac, Bergerac, Dordogne, Nouvelle-Aquitaine, France métropolitaine, 24240, France","(44.795, 0.4925, 0.0)"
+"Montravel, Southwest France, France","Montravel, Montcaret, Bergerac, Dordogne, Nouvelle-Aquitaine, France métropolitaine, 24230, France","(44.8599738, 0.0533919, 0.0)"
+"Pacherenc du Vic Bilh, Southwest France, France",,
+"La Rioja, Other, Argentina",,
+"Los Carneros, California, US","Village at Los Carneros, Goleta, Santa Barbara County, California, United States","(34.4346233, -119.8594792262155, 0.0)"
+"Vista Flores, Mendoza Province, Argentina",,
+"Snipes Mountain, Washington, US","Snipes Mountain, Yakima County, Washington, United States","(46.3115194, -120.0894904, 0.0)"
+"Calaveras County, California, US","Calaveras County, California, United States","(38.2558181, -120.4981492, 0.0)"
+"Rueda, Northern Spain, Spain",,
+"Mt. Harlan, California, US","Mount Harlan, San Benito County, California, United States","(36.6974604, -121.405214, 0.0)"
+"Quincy, Loire Valley, France","Quincy, Vierzon, Cher, Centre-Val de Loire, France métropolitaine, 18120, France","(47.133365, 2.1574605, 0.0)"
+"Vouvray, Loire Valley, France","Vouvray, Tours, Indre-et-Loire, Centre-Val de Loire, France métropolitaine, 37210, France","(47.4136687, 0.7998446, 0.0)"
+"Calchaquí Valley, Other, Argentina",,
+"Colorado, Colorado, US","Colorado, 4298, East Colorado Center Drive, University Hills, Denver, Denver County, Colorado, 80222, United States","(39.6796152, -104.9376995, 0.0)"
+"Cochise County, Arizona, US","Cochise County, Arizona, United States","(31.8514532, -109.8181858, 0.0)"
+"El Dorado, California, US","El Dorado County, California, United States","(38.7574137, -120.5276129, 0.0)"
+"Campania, Southern Italy, Italy",,
+"Taurasi, Southern Italy, Italy",,
+"Northern Sonoma, California, US","Northern Avenue, Rolands, Guerneville, Sonoma County, California, 95446, United States","(38.5177297, -122.9738437, 0.0)"
+"Coste della Sesia, Piedmont, Italy",,
+"Bourgogne, Burgundy, France","Université de Bourgogne, Mazen - Sully, Mirande, Montmuzard, Dijon, Côte-d'Or, Bourgogne-Franche-Comté, France métropolitaine, 21000, France","(47.3116927, 5.072100237731858, 0.0)"
+"Castillon Côtes de Bordeaux, Bordeaux, France",,
+"Cadillac Côtes de Bordeaux, Bordeaux, France",,
+"Stags Leap District, California, US",,
+"Lake Chelan, Washington, US","Lake Chelan, Chelan, Chelan County, Washington, United States","(48.07858615, -120.4757138372714, 0.0)"
+"Pomerol, Bordeaux, France","Pomerol, Lotissement Balcon de Fantaisie, Les Balances, Bassens, Bordeaux, Nouvelle-Aquitaine, France métropolitaine, 33530, France","(44.8924929, -0.5179616, 0.0)"
+"Napa, California, US","Napa, Napa County, California, United States","(38.2971367, -122.2855293, 0.0)"
+"Brouilly, Beaujolais, France","Rue du Mont Brouilly, Champ Clos, Grange-Rouge, Belleville, Belleville-en-Beaujolais, Villefranche-sur-Saône, Rhône, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, 69220, France","(46.1131255, 4.7223641, 0.0)"
+"Friuli Isonzo, Northeastern Italy, Italy",,
+"Costières de Nîmes, Rhône Valley, France",,
+"Chinon, Loire Valley, France","Chinon, Indre-et-Loire, Centre-Val de Loire, France métropolitaine, 37500, France","(47.1667182, 0.2402095, 0.0)"
+"Barossa Valley, South Australia, Australia","The Barossa Council, South Australia, Australia","(-34.61341495, 138.93854551693641, 0.0)"
+"Nagambie Lakes, Victoria, Australia",,
+"Saint-Mont, Southwest France, France","Saint-Mont, Mirande, Gers, Occitanie, France métropolitaine, 32400, France","(43.6519486, -0.1506191, 0.0)"
+"Chalone, California, US","North Chalone Peak, Monterey County, California, United States","(36.4476103, -121.1956483, 0.0)"
+"Aglianico del Vulture, Southern Italy, Italy",,
+"Columbia Gorge (OR), Oregon, US","Columbia River Gorge National Scenic Area, Multnomah County, Oregon, United States","(45.657502, -121.07445123889116, 0.0)"
+"Elkton Oregon, Oregon, US","Elkton, Douglas County, Oregon, United States","(43.6370577, -123.5673843, 0.0)"
+"Mendocino-Lake, California, US","Mendocino County, California, United States","(39.3176491, -123.4126399, 0.0)"
+"Idaho, Idaho, US","Idaho County, Idaho, United States","(45.7680684, -115.5160723, 0.0)"
+"Pine Mountain-Cloverdale Peak, California, US",,
+"Somontano, Northern Spain, Spain",,
+"Saint-Julien, Bordeaux, France","Saint-Julien, Linas, Latresne, Bordeaux, Nouvelle-Aquitaine, France métropolitaine, 33360, France","(44.792984, -0.5040716, 0.0)"
+"Cienega Valley, California, US","Cienega Valley, San Benito County, California, 95023-9172, United States","(36.7186762, -121.3543641, 0.0)"
+"Yorkville Highlands, California, US",,
+"Conca de Barberà, Catalonia, Spain","Conca de Barberà, Tarragona, Catalunya, España","(41.44389565, 1.1885113323042593, 0.0)"
+"Monterey, California, US","Monterey County, California, United States","(36.2231079, -121.3877428, 0.0)"
+"Marin County, California, US","Marin County, California, United States","(38.0409144, -122.6199638, 0.0)"
+"Moulin-à-Vent, Beaujolais, France",,
+"Châteaumeillant, Loire Valley, France","Châteaumeillant, Saint-Amand-Montrond, Cher, Centre-Val de Loire, France métropolitaine, 18370, France","(46.5608687, 2.1962014, 0.0)"
+"Touraine, Loire Valley, France","Touraine, D 113, Villevêque, Rives-du-Loir-en-Anjou, Angers, Maine-et-Loire, Pays de la Loire, France métropolitaine, France","(47.5390122, -0.4354531, 0.0)"
+"Arizona, Arizona, US","Arizona, Walker County, Texas, 77320, United States","(30.7806887, -95.4593925, 0.0)"
+"Saumur, Loire Valley, France","Saumur, Maine-et-Loire, Pays de la Loire, France métropolitaine, 49400, France","(47.2596224, -0.0785177, 0.0)"
+"Clements Hills, California, US",,
+"Rattlesnake Hills, Washington, US","Lookout Summit, Benton County, Washington, United States","(46.4476327, -119.8400381, 0.0)"
+"Humboldt County, California, US","Humboldt County, California, United States","(40.5997415, -123.8997734, 0.0)"
+"Sonoma-Napa, California, US","Napa-Sonoma Marshes Wildlife Area, Napa County, California, United States","(38.168540300000004, -122.3306377262485, 0.0)"
+"Crémant de Bourgogne, Burgundy, France",,
+"Mediterranée, France Other, France",,
+"Sannio, Southern Italy, Italy",,
+"Falanghina del Sannio, Southern Italy, Italy",,
+"Pauillac, Bordeaux, France","Pauillac, A 63, Le Cournau, Canéjan, Bordeaux, Nouvelle-Aquitaine, France métropolitaine, 33610, France","(44.7760032, -0.6511306341351732, 0.0)"
+"Montagne-Saint-Émilion, Bordeaux, France",,
+"Niagara Peninsula, Ontario, Canada","Niagara Escarpment, Northern Bruce Peninsula, Bruce County, Southwestern Ontario, Ontario, Canada","(45.1515368, -81.3355078, 0.0)"
+"Yolo County, California, US","Yolo County, California, United States","(38.7184542, -121.9059001, 0.0)"
+"Fleurie, Beaujolais, France","Rue du Bois Fleuri, Balmont, L'Étang, Saint-Jean-d'Ardières, Belleville-en-Beaujolais, Villefranche-sur-Saône, Rhône, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, 69220, France","(46.112843, 4.7400347, 0.0)"
+"Bennett Valley, California, US","Bennett Valley, Santa Rosa, Sonoma County, California, 95405, United States","(38.4254354, -122.6649553, 0.0)"
+"Monticello, Virginia, US","Monticello, Monticello Loop, Albemarle County, Virginia, 22902, United States","(38.01031385, -78.45236720073748, 0.0)"
+"Vin de Savoie, France Other, France",,
+"Corton-Charlemagne, Burgundy, France",,
+"Nebbiolo d'Alba, Piedmont, Italy",,
+"Colline Novaresi, Piedmont, Italy",,
+"Getariako Txakolina, Northern Spain, Spain",,
+"Languedoc, Languedoc-Roussillon, France",,
+"Columbia Valley (OR), Oregon, US","Columbia, 14375, Northwest Science Park Drive, Marlene Village, Portland, Metro, Washington County, Oregon, 97229, United States","(45.52966955, -122.82488740322556, 0.0)"
+"Coteaux Varois en Provence, Provence, France",,
+"York Mountain, California, US","York Mountain, San Luis Obispo County, California, United States","(35.546083, -120.8332336, 0.0)"
+"Cerasuolo di Vittoria Classico, Sicily & Sardinia, Italy",,
+"Côtes de Bordeaux, Bordeaux, France","Avenue des Premières Côtes, Cénac, Bordeaux, Nouvelle-Aquitaine, France métropolitaine, 33360, France","(44.779179, -0.4610873, 0.0)"
+"Lugana Superiore, Lombardy, Italy",,
+"Chalk Hill, California, US","Chalk Hill, Santa Barbara County, California, 93463, United States","(34.6140902, -120.1462082, 0.0)"
+"Placer County, California, US","Placer County, California, United States","(39.1012064, -120.7650606, 0.0)"
+"Victoria, Victoria, Australia","Victoria, Victoria Plains, Mackay Regional, Queensland, Australia","(-21.2309116, 148.9741517, 0.0)"
+"Barbera d'Alba Superiore, Piedmont, Italy",,
+"Rully, Burgundy, France",,
+"South Australia, South Australia, Australia","Art Gallery of South Australia, Western Drive, Adelaide, Adelaide City Council, South Australia, 5000, Australia","(-34.920630700000004, 138.60396883837132, 0.0)"
+"Langhorne Creek, South Australia, Australia","Langhorne Creek, Alexandrina Council, South Australia, 5255, Australia","(-35.295938, 139.0364451, 0.0)"
+"Vino de la Tierra de Castilla y León, Northern Spain, Spain",,
+"Nuits-St.-Georges, Burgundy, France",,
+"Luberon, Rhône Valley, France","Le Lubéron, Revaison, Saint-Priest, Lyon, Métropole de Lyon, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, 69800, France","(45.7040767, 4.918631125773569, 0.0)"
+"Saint-Romain, Burgundy, France",,
+"Alto Adige Terlano, Northeastern Italy, Italy",,
+"Juliénas, Beaujolais, France","Route des Crus du Beaujolais, Les Blondels, Les Capitans, Juliénas, Villefranche-sur-Saône, Rhône, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, 69840, France","(46.2388774, 4.7162347, 0.0)"
+"Saint-Amour, Beaujolais, France",,
+"Pernand-Vergelesses, Burgundy, France",,
+"Grand Valley, Colorado, US","Grand County, Colorado, United States","(40.0990074, -106.1366966, 0.0)"
+"Cannonau di Sardegna, Sicily & Sardinia, Italy",,
+"Catalunya, Catalonia, Spain","Catalunya, Plaça de Catalunya, la Dreta de l'Eixample, Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08001, España","(41.387434400000004, 2.1690313098684193, 0.0)"
+"Alella, Catalonia, Spain","Alella, Maresme, Barcelona, Catalunya, 08328, España","(41.4952867, 2.2942758, 0.0)"
+"Templeton Gap District, California, US",,
+"Colli della Toscana Centrale, Tuscany, Italy",,
+"Ancient Lakes, Washington, US","Ancient Lakes Elementary, C Street Southeast, Quincy, Grant County, Washington, United States","(47.2359879, -119.84526697008943, 0.0)"
+"Antelope Valley of the California High Desert, California, US",,
+"Lambrusco di Sorbara, Central Italy, Italy",,
+"Trentino, Northeastern Italy, Italy",,
+"Cariñena, Northern Spain, Spain",,
+"Dolcetto d'Alba, Piedmont, Italy",,
+"Clarksburg, California, US","Clarksburg, Yolo County, California, 95612, United States","(38.4204651, -121.5271772, 0.0)"
+"Sonoma County-Napa County, California, US","California State Route 128, Jimtown, Sonoma County, California, United States","(38.6487984, -122.731761, 0.0)"
+"Fair Play, California, US","Fair Play, El Dorado County, California, 95684, United States","(38.5935173, -120.6604855, 0.0)"
+"Alto Adige Valle Isarco, Northeastern Italy, Italy",,
+"Prosecco di Valdobbiadene Superiore, Veneto, Italy",,
+"Australia, Australia Other, Australia",,
+"Muscadet, Loire Valley, France","Le Muscadet, Libretière, Mouchamps, La Roche-sur-Yon, Pays de la Loire, France métropolitaine, 85640, France","(46.7565822, -1.0936347, 0.0)"
+"Reuilly, Loire Valley, France","Reuilly, Issoudun, Indre, Centre-Val de Loire, France métropolitaine, 36260, France","(47.0851206, 2.0434337, 0.0)"
+"Salta, Other, Argentina",,
+"Barossa, South Australia, Australia","The Barossa Council, South Australia, Australia","(-34.61341495, 138.93854551693641, 0.0)"
+"Chianti, Tuscany, Italy","Il Chianti, Ceppeto, San Vincenzo a Torri, Scandicci, Firenze, Toscana, Italia","(43.7043073, 11.1048413, 0.0)"
+"Patagonia, Other, Argentina",,
+"Temecula, California, US","Temecula, Riverside County, California, United States","(33.4946353, -117.1473661, 0.0)"
+"Marcillac, Southwest France, France","Marcillac, Val-de-Livenne, Blaye, Gironde, Nouvelle-Aquitaine, France métropolitaine, 33860, France","(45.27374695, -0.49955961805011406, 0.0)"
+"Montagny, Burgundy, France",,
+"Falanghina del Beneventano, Southern Italy, Italy",,
+"Lussac Saint-Émilion, Bordeaux, France",,
+"Contra Costa County, California, US","Contra Costa County, California, United States","(37.9034806, -121.9175345, 0.0)"
+"Vin Santo del Chianti Classico, Tuscany, Italy",,
+"Vin Santo del Chianti Rufina, Tuscany, Italy",,
+"Alicante, Levante, Spain","Growshop Benidorm Supernatural Spain, 8, Carrer Maravall, Pla de Maravall, Benidorm, la Marina Baixa, Alacant / Alicante, Comunitat Valenciana, 03501, España","(38.53834335, -0.13505738626235478, 0.0)"
+"Meursault-Blagny, Burgundy, France",,
+"Rosso di Toscana, Tuscany, Italy","Rosso, San Quirico d'Orcia, Unione dei Comuni Amiata Val d'Orcia, Siena, Toscana, Italia","(43.0573443, 11.608908449999994, 0.0)"
+"Puisseguin Saint-Émilion, Bordeaux, France",,
+"Valli di Porto Pino, Sicily & Sardinia, Italy",,
+"Minervois, Languedoc-Roussillon, France",,
+"Alcamo, Sicily & Sardinia, Italy",,
+"Wrattonbully, South Australia, Australia","Wrattonbully, Naracoorte Lucindale Council, South Australia, 5271, Australia","(-37.1677831, 140.9458691, 0.0)"
+"Anjou, Loire Valley, France","Anjoux, Sagy, Louhans, Saône-et-Loire, Bourgogne-Franche-Comté, France métropolitaine, 71580, France","(46.564187, 5.3193257, 0.0)"
+"Swan Creek, North Carolina, US","Swan Creek, Yadkin County, North Carolina, United States","(36.1784676, -80.8689607, 0.0)"
+"Redwood Valley, California, US","Redwood Valley, Mendocino County, California, United States","(39.2654449, -123.2044496, 0.0)"
+"Maipú, Mendoza Province, Argentina","Maipú, Mercado de la Ciudad, General Paz, Caleta Olivia, Mercado de la Ciudad, Caleta Olivia, Deseado, Santa Cruz, Z9011, Argentina","(-46.4470486, -67.5117595, 0.0)"
+"Costa d'Amalfi, Southern Italy, Italy",,
+"Eloro, Sicily & Sardinia, Italy",,
+"Beneventano, Southern Italy, Italy",,
+"Calatayud, Northern Spain, Spain",,
+"Barbera d'Asti, Piedmont, Italy",,
+"Bourgogne Côtes d’Auxerre, Burgundy, France",,
+"Isonzo del Friuli, Northeastern Italy, Italy",,
+"Vin de Pays de Vaucluse, Rhône Valley, France",,
+"Corse, France Other, France",,
+"Pouilly-Vinzelles, Burgundy, France",,
+"Santa Barbara, California, US","Santa Barbara, Santa Barbara County, California, United States","(34.4221319, -119.7026673, 0.0)"
+"Chiles Valley, California, US","Chiles Road, Davis, Yolo County, California, 95618, United States","(38.5504546, -121.6947431, 0.0)"
+"San Francisco Bay, California, US","San Francisco Bay, San Francisco City and County, San Mateo County, California, United States","(37.71402905, -122.30779415179862, 0.0)"
+"Monterey-Santa Barbara-Sonoma, California, US",,
+"Saussignac, Southwest France, France","Saussignac, Bergerac, Dordogne, Nouvelle-Aquitaine, France métropolitaine, 24240, France","(44.8014957, 0.3264929, 0.0)"
+"Givry, Burgundy, France",,
+"Clare Valley, South Australia, Australia","Clare, Clare and Gilbert Valleys Council, South Australia, 5453, Australia","(-33.8333914, 138.6120042, 0.0)"
+"Soave Classico Superiore, Veneto, Italy",,
+"Saint-Véran, Burgundy, France",,
+"Western Australia, Western Australia, Australia","University of Western Australia, 35, Stirling Highway, Claremont, Town of Claremont, Western Australia, 6009, Australia","(-31.95040445, 115.79790037425106, 0.0)"
+"Tulum Valley, Other, Argentina",,
+"Nevada County, California, US","Nevada County, California, United States","(39.3540335, -120.8089843, 0.0)"
+"Napa County, California, US","Napa County, California, United States","(38.4898675, -122.3218414, 0.0)"
+"Utiel-Requena, Levante, Spain","Calle Levante, San Antonio de Requena, La Plana de Utiel-Requena, València / Valencia, Comunitat Valenciana, 46390, España","(39.5229289, -1.1495788, 0.0)"
+"Mâcon La Roche Vineuse, Burgundy, France",,
+"Vino de la Tierra de Castelló, Levante, Spain",,
+"Bergerac, Southwest France, France","Bergerac, Dordogne, Nouvelle-Aquitaine, France métropolitaine, 24100, France","(44.8534568, 0.487531, 0.0)"
+"Fiddletown, California, US","Fiddletown, Amador County, California, 95629, United States","(38.5037966, -120.7554891, 0.0)"
+"Puglia, Southern Italy, Italy",,
+"Mâcon-Lugny, Burgundy, France",,
+"Monterrei, Galicia, Spain","Monterrei, Vilela de Abaixo, Verín, Ourense, Galicia, 32627, España","(41.9467657, -7.4491474, 0.0)"
+"Palette, Provence, France","Palette, Le Tholonet, Aix-en-Provence, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13100, France","(43.5104611, 5.4889374, 0.0)"
+"Var, Provence, France","Var, Provence-Alpes-Côte d'Azur, France métropolitaine, France","(43.4173592, 6.2664620128919, 0.0)"
+"Lambrusco Grasparossa di Castelvetro, Central Italy, Italy",,
+"Pomino, Tuscany, Italy","Pomino, Rufina, Firenze, Toscana, 50060, Italia","(43.8151012, 11.5506357, 0.0)"
+"Landes, Southwest France, France","Landes, Nouvelle-Aquitaine, France métropolitaine, France","(44.00996945, -0.6433872354467377, 0.0)"
+"La Consulta, Mendoza Province, Argentina","La Consulta, Zanni, Pehuajó, Partido de Pehuajó, Buenos Aires, 6450, Argentina","(-35.8145006, -61.8948752, 0.0)"
+"Chianti Rufina, Tuscany, Italy",,
+"Irrouléguy, Southwest France, France",,
+"Rosé d'Anjou, Loire Valley, France","Rue Rose Quatre Coeurs, La Vendange, Saint-Sylvain-d'Anjou, Verrières-en-Anjou, Angers, Maine-et-Loire, Pays de la Loire, France métropolitaine, 49000, France","(47.4913753, -0.5057815, 0.0)"
+"Potter Valley, California, US","Potter Valley, Mendocino County, California, United States","(39.315214600000004, -123.11246387038575, 0.0)"
+"Ribera del Júcar, Central Spain, Spain",,
+"Val de Loire, Loire Valley, France","Val de Loire, Rue Gérentet, Place Boivin, Saint-Étienne, Loire, Auvergne-Rhône-Alpes, France métropolitaine, 42000, France","(45.4399177, 4.3878221, 0.0)"
+"Valencia, Levante, Spain","Habitale InmoApi Inmobiliarias en Valencia, el Calvari, Benidorm, la Marina Baixa, Alacant / Alicante, Comunitat Valenciana, España","(38.5377163, -0.12495685682197755, 0.0)"
+"Faro, Sicily & Sardinia, Italy",,
+"Dominio de Valdepusa, Central Spain, Spain",,
+"Great Southern, Western Australia, Australia",,
+"Rosso di Montalcino, Tuscany, Italy","Fosso della Fonte al Rosso, Podere Galampio, Montalcino, Civitella Paganico, Siena, Toscana, Italia","(43.0546099, 11.3622147, 0.0)"
+"Cabernet d'Anjou, Loire Valley, France",,
+"Riverina, New South Wales, Australia","Riverina Highlands Landcare Nursery, Tumut, Snowy Valleys Council, New South Wales, 2720, Australia","(-35.29288455, 148.2111420353283, 0.0)"
+"High Valley, California, US","High Valley, Lake County, California, 95423, United States","(39.0518681, -122.6883413, 0.0)"
+"San Benito County, California, US","San Benito County, California, United States","(36.6248089, -121.1177379, 0.0)"
+"Côtes Catalanes, Languedoc-Roussillon, France",,
+"Hunter Valley, New South Wales, Australia","Hunter Valley, Singleton Council, New South Wales, Australia","(-32.5421803, 151.2185641, 0.0)"
+"Limestone Coast, South Australia, Australia","Limestone Coast Road, Cape Jaffa, Kingston District Council, South Australia, 5275, Australia","(-36.966833, 139.7525724, 0.0)"
+"Saint-Bris, Burgundy, France",,
+"Vin de Pays du Comté Tolosan, Southwest France, France",,
+"Padthaway, South Australia, Australia","Padthaway, Tatiara District Council, South Australia, 5271, Australia","(-36.5860356, 140.52187338228197, 0.0)"
+"Sable de Camargue, Languedoc-Roussillon, France",,
+"Ile de Beauté, France Other, France",,
+"Arbois, France Other, France",,
+"Dogliani Superiore, Piedmont, Italy",,
+"Pemberton, Western Australia, Australia","Pemberton, Shire Of Manjimup, Western Australia, 6260, Australia","(-34.4441275, 116.0346584, 0.0)"
+"Shenandoah Valley, Virginia, US","Shenandoah, Page County, Virginia, United States","(38.4851245, -78.625016, 0.0)"
+"Soave Colli Scaligeri, Veneto, Italy",,
+"Viré-Clessé, Burgundy, France",,
+"Bourgogne Hautes Côtes de Nuits, Burgundy, France",,
+"Middleburg, Virginia, US","Middleburg, Loudoun County, Virginia, 20118, United States","(38.9690189, -77.7355056, 0.0)"
+"Pays d'Oc, Languedoc-Roussillon, France",,
+"Bourgueil, Loire Valley, France","Bourgueil, Chinon, Indre-et-Loire, Centre-Val de Loire, France métropolitaine, 37140, France","(47.2827691, 0.1788873, 0.0)"
+"Mâcon Solutré, Burgundy, France",,
+"Cheverny, Loire Valley, France","Cheverny, Blois, Loir-et-Cher, Centre-Val de Loire, France métropolitaine, 41700, France","(47.4996989, 1.4611064, 0.0)"
+"River Junction, California, US","March Air Reserve Base, Cactus Avenue, Moreno Valley, Riverside County, California, 92518, United States","(33.88451835, -117.25621930598837, 0.0)"
+"Beaujolais, Beaujolais, France","Le Beaujolais, Rue du Maréchal Foch, Beauval, L'Étang, Saint-Jean-d'Ardières, Belleville-en-Beaujolais, Villefranche-sur-Saône, Rhône, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, 69220, France","(46.1125998, 4.7301906, 0.0)"
+"North Carolina, North Carolina, US","Northwest, Brunswick County, North Carolina, United States","(34.3129464, -78.1611077, 0.0)"
+"Yadkin Valley, North Carolina, US","Yadkin Valley, Caldwell County, North Carolina, United States","(36.0223527, -81.4900963, 0.0)"
+"El Dorado County, California, US","El Dorado County, California, United States","(38.7574137, -120.5276129, 0.0)"
+"Chambertin, Burgundy, France",,
+"Chevalier-Montrachet, Burgundy, France",,
+"Ribeiro, Galicia, Spain","O Ribeiro, Ourense, Galicia, España","(42.31990645, -8.152266856014716, 0.0)"
+"Chianti Superiore, Tuscany, Italy",,
+"Entre-Deux-Mers, Bordeaux, France","Entre-Deux-Mers, Boulevard de l'Entre-Deux-Mers, Cenon, Bordeaux, Nouvelle-Aquitaine, France métropolitaine, 33150, France","(44.845146, -0.5326435, 0.0)"
+"Solano County, California, US","Solano County, California, United States","(38.2218938, -121.9163555, 0.0)"
+"Erice, Sicily & Sardinia, Italy",,
+"Suisun Valley, California, US","Suisun City, Solano County, California, 94585, United States","(38.2382474, -122.040244, 0.0)"
+"Fleurieu Peninsula, South Australia, Australia","Fleurieu Peninsula, The District Council of Yankalilla, South Australia, Australia","(-35.5082015, 138.47774189265812, 0.0)"
+"Monterey-Santa Barbara, California, US","Monterey Street, Westside, Santa Barbara, Santa Barbara County, California, 93101, United States","(34.421814, -119.7269, 0.0)"
+"Rosso di Montepulciano, Tuscany, Italy",,
+"Corton Vergennes, Burgundy, France",,
+"Corton-Rognet, Burgundy, France",,
+"Montrachet, Burgundy, France",,
+"Chambertin Clos de Bèze, Burgundy, France",,
+"Hermitage, Rhône Valley, France","Hermitage, Saint-Alban-de-Roche, La Tour-du-Pin, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38080, France","(45.5767428, 5.2197156, 0.0)"
+"Chapelle-Chambertin, Burgundy, France",,
+"Latricières-Chambertin, Burgundy, France",,
+"Bâtard-Montrachet, Burgundy, France",,
+"Echézeaux, Burgundy, France",,
+"San Bernabe, California, US",,
+"Ventoux, Rhône Valley, France","Le Ventoux, Langy, Vichy, Allier, Auvergne-Rhône-Alpes, France métropolitaine, 03150, France","(46.2664095, 3.4689401, 0.0)"
+"Soave Superiore, Veneto, Italy",,
+"Petit Chablis, Burgundy, France",,
+"Friuli Grave, Northeastern Italy, Italy",,
+"Lanzarote, Spanish Islands, Spain",,
+"Lirac, Rhône Valley, France",,
+"Condrieu, Rhône Valley, France","Condrieu, Lyon, Rhône, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, 69420, France","(45.4624294, 4.7676199, 0.0)"
+"Mazis-Chambertin, Burgundy, France",,
+"Charmes-Chambertin, Burgundy, France",,
+"Chambolle-Musigny, Burgundy, France",,
+"Vosne-Romanée, Burgundy, France",,
+"Criots-Bâtard-Montrachet, Burgundy, France",,
+"South Eastern Australia, Australia Other, Australia",,
+"Sonoma County-Monterey County-Napa County, California, US",,
+"Colli Etruria Centrale, Tuscany, Italy",,
+"Carmignano, Tuscany, Italy","Carmignano, Prato, Toscana, Italia","(43.8140654, 11.0190297, 0.0)"
+"Isola dei Nuraghi, Sicily & Sardinia, Italy",,
+"Francs Côtes de Bordeaux, Bordeaux, France",,
+"Vin de Pays de la Méditerranée, France Other, France",,
+"Venezie, Northeastern Italy, Italy",,
+"Côte de Nuits-Villages, Burgundy, France",,
+"Campi Flegrei, Southern Italy, Italy",,
+"Roccamonfina, Southern Italy, Italy",,
+"Romanée-St.-Vivant, Burgundy, France",,
+"Charentais, France Other, France",,
+"Côtes de Duras, Southwest France, France",,
+"Auxey-Duresses, Burgundy, France",,
+"Almansa, Central Spain, Spain","Almansa, Carrer Almansa, Polígon Industrial de Carrús, Sant Crispí, Elx / Elche, el Baix Vinalopó, Alacant / Alicante, Comunitat Valenciana, 03208, España","(38.280555, -0.7158212, 0.0)"
+"Gigondas, Rhône Valley, France","Allée Gigondas, Parc du Moulin à Vent, Moulin à Vent, Vénissieux, Lyon, Métropole de Lyon, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, 69200, France","(45.7196336, 4.8605667, 0.0)"
+"Bienvenues Bâtard-Montrachet, Burgundy, France",,
+"Contessa Entellina, Sicily & Sardinia, Italy",,
+"Margaret River, Western Australia, Australia","Margaret River, Shire Of Augusta Margaret River, Western Australia, 6285, Australia","(-33.9531776, 115.0769369, 0.0)"
+"Coonawarra, South Australia, Australia","Coonawarra, Wattle Range Council, South Australia, 5263, Australia","(-37.2909105, 140.8346628, 0.0)"
+"Côte Chalonnaise, Burgundy, France",,
+"Colli di Salerno, Southern Italy, Italy",,
+"Saint-Joseph, Rhône Valley, France","Saint-Joseph, Saint-Étienne, Loire, Auvergne-Rhône-Alpes, France métropolitaine, 42800, France","(45.5558586, 4.6178895, 0.0)"
+"Valpolicella Classico Superiore Ripasso, Veneto, Italy",,
+"Valpolicella Superiore Ripasso, Veneto, Italy",,
+"New Mexico, New Mexico, US","New Mexico, Turquoise Trail, Golden, Santa Fe County, New Mexico, United States","(35.2525419, -106.2036349, 0.0)"
+"Vino de Calidad de Valtiendas, Northern Spain, Spain",,
+"Colli Aprutini, Central Italy, Italy",,
+"Santa Cruz County, California, US","Santa Cruz County, California, United States","(37.050096, -121.9905908, 0.0)"
+"Montepulciano d'Abruzzo, Central Italy, Italy",,
+"Rubicone, Central Italy, Italy",,
+"Chiroubles, Beaujolais, France","Les Terrasses du Beaujolais, Route d'Avenas, Chiroubles, Villefranche-sur-Saône, Rhône, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, 69115, France","(46.1892965, 4.628457363636368, 0.0)"
+"Salento, Southern Italy, Italy",,
+"Cerasuolo di Vittoria, Sicily & Sardinia, Italy",,
+"Crémant d'Alsace, Alsace, France",,
+"Rosso Piceno Superiore, Central Italy, Italy",,
+"Barbera di Piemonte, Piedmont, Italy",,
+"Barbera d'Asti Superiore Nizza, Piedmont, Italy",,
+"Dogliani, Piedmont, Italy",,
+"Costers del Segre, Catalonia, Spain","Celler Purgatori. Torres. Costers del Segre, C-233, Juneda, Garrigues, Lleida, Catalunya, 25154, España","(41.502298249999996, 0.8273990115524253, 0.0)"
+"Contea di Sclafani, Sicily & Sardinia, Italy",,
+"Rosso Piceno, Central Italy, Italy",,
+"Colli Bolognesi, Central Italy, Italy",,
+"Terre di Chieti, Central Italy, Italy",,
+"Sangiovese di Romagna, Central Italy, Italy",,
+"Offida Passerina, Central Italy, Italy",,
+"Lazio, Central Italy, Italy","Ambasciata d'Italia presso la Santa Sede, 2, Viale delle Belle Arti, Quartiere I Flaminio, Roma, Roma Capitale, Lazio, 00196, Italia","(41.9186101, 12.4733123, 0.0)"
+"Missouri, Missouri, US","Missouri, Festus, Jefferson County, Missouri, 63028, United States","(38.1973133, -90.3998884, 0.0)"
+"Primitivo di Manduria, Southern Italy, Italy",,
+"Salice Salentino, Southern Italy, Italy",,
+"Chénas, Beaujolais, France",,
+"Comté Toulosan, Southwest France, France",,
+"Cirò, Southern Italy, Italy",,
+"Hilltops, New South Wales, Australia","Hilltops Council, New South Wales, Australia","(-34.41561915, 148.56342571324248, 0.0)"
+"Manchuela, Central Spain, Spain","La Manchuela, Nava de la Asunción, Segovia, Castilla y León, 40450, España","(41.1449359, -4.4596223, 0.0)"
+"Clos de la Roche, Burgundy, France",,
+"Tierra del Viños de Zamora, Northern Spain, Spain",,
+"Vi de la Terra Mallorca, Spanish Islands, Spain",,
+"Côte Rôtie, Rhône Valley, France","La Côte Rôtie, Broût-Vernet, Vichy, Allier, Auvergne-Rhône-Alpes, France métropolitaine, 03110, France","(46.1932418, 3.2967983, 0.0)"
+"Bourgogne Aligoté, Burgundy, France",,
+"Mâcon, Burgundy, France",,
+"Bardolino Chiaretto, Veneto, Italy",,
+"Rosso Conero, Central Italy, Italy",,
+"Orvieto, Central Italy, Italy",,
+"Terra degli Osci, Southern Italy, Italy",,
+"San Pasqual, California, US","San Pasqual, El Monte, Los Angeles County, California, 91107, United States","(34.1391544, -118.1024418, 0.0)"
+"Walla Walla Valley (OR), Oregon, US",,
+"Monterey County-Napa County-Sonoma County, California, US",,
+"Ventura County, California, US","Ventura County, California, United States","(34.4458248, -119.0779359, 0.0)"
+"Umbria, Central Italy, Italy","Smooth Perugia Italy, 13, Via Oberdan, Perugia, Umbria, 06121, Italia","(43.1100952, 12.3898763, 0.0)"
+"Côtes de Castillon, Bordeaux, France",,
+"Colline Pescaresi, Central Italy, Italy",,
+"Yamhill-Carlton District, Oregon, US",,
+"Barsac, Bordeaux, France","Allée de Barsac, Martignas-sur-Jalle, Bordeaux, Nouvelle-Aquitaine, France métropolitaine, 33127, France","(44.8443948, -0.7981731, 0.0)"
+"Savennières, Loire Valley, France","Savennières, Angers, Maine-et-Loire, Pays de la Loire, France métropolitaine, 49170, France","(47.3830917, -0.6570828, 0.0)"
+"Quarts de Chaume, Loire Valley, France",,
+"Périgord, Southwest France, France","Le Périgord, Bussière-Galant, Limoges, Haute-Vienne, Nouvelle-Aquitaine, France métropolitaine, 87230, France","(45.5449404, 1.0413194, 0.0)"
+"Morellino di Scansano, Tuscany, Italy","Morellino DI Scansano, Podere ""il Corbezzolo"", Magliano in Toscana, Grosseto, Toscana, Italia","(42.712553650000004, 11.228051603392505, 0.0)"
+"Fixin, Burgundy, France",,
+"Friuli, Northeastern Italy, Italy",,
+"Oregon Other, Oregon, US",,
+"Verdicchio dei Castelli di Jesi Classico, Central Italy, Italy",,
+"Frascati Superiore, Central Italy, Italy",,
+"Trebbiano d'Abruzzo, Central Italy, Italy",,
+"Sagrantino di Montefalco, Central Italy, Italy",,
+"Montilla-Moriles, Andalucia, Spain","Calle Montilla Moriles, La Cala del Moral, Rincón de la Victoria, La Axarquía, Málaga, Andalucía, 29720, España","(36.7289133, -4.2997395, 0.0)"
+"Savennières-Roche-Aux-Moines, Loire Valley, France","La Loire à Vélo, La Roche aux Moines, Épiré, Savennières, Angers, Maine-et-Loire, Pays de la Loire, France métropolitaine, 49170, France","(47.3863888, -0.6429235, 0.0)"
+"Lot, Southwest France, France","Lot, Occitanie, France métropolitaine, France","(44.624991800000004, 1.6657742169753669, 0.0)"
+"Régnié, Beaujolais, France","Voie Verte du Beaujolais, Au Clairon, Régnié-Durette, Villefranche-sur-Saône, Rhône, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, 69430, France","(46.1259969, 4.6338662, 0.0)"
+"Sant' Agata dei Goti, Southern Italy, Italy",,
+"Monthélie, Burgundy, France",,
+"Mâcon-Chardonnay, Burgundy, France",,
+"Vin de Pays des Collines Rhodaniennes, Rhône Valley, France",,
+"Mentrida, Central Spain, Spain","Mentrida, 3, Plaza de Olavide, Trafalgar, Chamberí, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28010, España","(40.4324149, -3.7014806, 0.0)"
+"Lambrusco Reggiano, Central Italy, Italy",,
+"Colli Piacentini, Central Italy, Italy",,
+"Perdriel, Mendoza Province, Argentina","Perdriel, Villa de Mayo, Partido de Malvinas Argentinas, Buenos Aires, B1613ASD, Argentina","(-34.4905052, -58.6758339, 0.0)"
+"Val di Neto, Southern Italy, Italy",,
+"Côte de Brouilly, Beaujolais, France","Le Côte de Brouilly, 27, Rue du Beaujolais, Odenas, Villefranche-sur-Saône, Rhône, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, 69460, France","(46.0893824, 4.6470174, 0.0)"
+"Coteaux du Layon, Loire Valley, France","Réserve naturelle des coteaux du Pont-Barré, Pierre Bise, Beaulieu-sur-Layon, Angers, Maine-et-Loire, Pays de la Loire, France métropolitaine, 49750, France","(47.3165909, -0.6169720962188378, 0.0)"
+"Sangiovese di Romagna Superiore, Central Italy, Italy",,
+"Marche, Central Italy, Italy","Via Montedardo Filottrano (AN) Italy, Filottrano, Ancona, Marche, 60024, Italia","(43.4496897, 13.39345, 0.0)"
+"Vermentino di Sardegna, Sicily & Sardinia, Italy",,
+"Grands-Echezeaux, Burgundy, France",,
+"Montefalco Sagrantino, Central Italy, Italy",,
+"Verdicchio dei Castelli di Jesi, Central Italy, Italy",,
+"Jujuy, Other, Argentina",,
+"Napa County-Sonoma County, California, US","California State Route 128, Jimtown, Sonoma County, California, United States","(38.6487984, -122.731761, 0.0)"
+"Epomeo, Southern Italy, Italy",,
+"Beaujolais-Villages, Beaujolais, France",,
+"Basilicata, Southern Italy, Italy",,
+"Coteaux du Layon Beaulieu, Loire Valley, France","Réserve naturelle des coteaux du Pont-Barré, Pierre Bise, Beaulieu-sur-Layon, Angers, Maine-et-Loire, Pays de la Loire, France métropolitaine, 49750, France","(47.3165909, -0.6169720962188378, 0.0)"
+"Neuquén, Other, Argentina","Other World, 168, Chos Malal, Plottier Centro, Plottier, Municipio de Plottier, Departamento Confluencia, Neuquén, Q8316, Argentina","(-38.9521287, -68.2279629, 0.0)"
+"Côte de Beaune-Villages, Burgundy, France",,
+"Terre del Volturno, Southern Italy, Italy",,
+"Vacqueyras, Rhône Valley, France",,
+"Amarone della Valpolicella, Veneto, Italy",,
+"Montescudaio, Tuscany, Italy","Montescudaio, Pisa, Toscana, Italia","(43.3262785, 10.6269946, 0.0)"
+"Chianti Colli Fiorentini, Tuscany, Italy",,
+"Sant'Antimo, Tuscany, Italy","Sant'Antimo, Civitella Paganico, Grosseto, Toscana, Italia","(42.9778888, 11.2998783, 0.0)"
+"Chianti Montalbano, Tuscany, Italy",,
+"Vin Santo di Carmignano, Tuscany, Italy",,
+"Circeo, Central Italy, Italy",,
+"Orvieto Classico, Central Italy, Italy",,
+"Aglianico del Taburno, Southern Italy, Italy",,
+"Salina, Sicily & Sardinia, Italy",,
+"Beaujolais Rosé, Beaujolais, France","Le Beaujolais, Rue du Maréchal Foch, Beauval, L'Étang, Saint-Jean-d'Ardières, Belleville-en-Beaujolais, Villefranche-sur-Saône, Rhône, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, 69220, France","(46.1125998, 4.7301906, 0.0)"
+"Napa County-Sonoma County-San Joaquin County, California, US",,
+"Touraine Amboise, Loire Valley, France","Route de Civray de Touraine, Amboise, Loches, Indre-et-Loire, Centre-Val de Loire, France métropolitaine, 37400, France","(47.3933053, 1.0030387, 0.0)"
+"Clare Valley-Coonawarra, South Australia, Australia",,
+"Pavia, Lombardy, Italy","Pavia, Lombardia, Italia","(45.036854649999995, 9.137825082826026, 0.0)"
+"Lambrusco dell'Emilia, Central Italy, Italy",,
+"Tarantino, Southern Italy, Italy",,
+"Mâcon-Vinzelles, Burgundy, France",,
+"Bonnes-Mares, Burgundy, France",,
+"Corton Les Renardes, Burgundy, France",,
+"Vernaccia di San Gimignano, Tuscany, Italy","Museo del Vino Vernaccia di San Gimignano, Via della Rocca, Santa Chiara, San Gimignano, Siena, Toscana, 53038, Italia","(43.4680172, 11.0419989, 0.0)"
+"Valpolicella Classico Superiore, Veneto, Italy",,
+"Valpolicella Superiore, Veneto, Italy",,
+"Pla de Bages, Catalonia, Spain","Pla de Bages, Eix Transversal, Sallent, Bages, Barcelona, Catalunya, 08270, España","(41.7785429, 1.8904077, 0.0)"
+"Conegliano Valdobbiadene Prosecco Superiore, Veneto, Italy",,
+"Valpolicella, Veneto, Italy","Negrar di Valpolicella, Verona, Veneto, 37024, Italia","(45.5296706, 10.9400217, 0.0)"
+"Beaujolais Blanc, Beaujolais, France",,
+"Rosso del Veronese, Veneto, Italy","Sengio Rosso, Vilmezzano, Caprino Veronese, Verona, Veneto, 37013, Italia","(45.6286888, 10.8083183, 0.0)"
+"Coteaux Varois, Provence, France",,
+"Colli Orientali del Friuli, Northeastern Italy, Italy",,
+"Yecla, Levante, Spain",,
+"Vin de Pays Var, Provence, France",,
+"San Francisco Bay-Livermore Valley, California, US",,
+"Central Valley, California, US","Central Valley, San Joaquin County, California, 95219, United States","(38.0, -121.4, 0.0)"
+"Sonoma-Napa-Lake, California, US","Napa-Sonoma Marshes Wildlife Area, Napa County, California, United States","(38.168540300000004, -122.3306377262485, 0.0)"
+"Napa-Carneros, California, US",,
+"Adelaide, South Australia, Australia","Adelaide, Adelaide City Council, South Australia, Australia","(-34.9281805, 138.5999312, 0.0)"
+"Pennsylvania, Pennsylvania, US","Penn State University, Mount Nittany Expressway, Houserville, College Township, Centre County, Pennsylvania, 16802-2604, United States","(40.8034484, -77.85911884037719, 0.0)"
+"Vinos de Madrid, Central Spain, Spain",,
+"Vin de Pays du Gard, Rhône Valley, France",,
+"Valpolicella Ripasso, Veneto, Italy",,
+"Valpolicella Ripasso Valpantena, Veneto, Italy",,
+"San Rafael, Mendoza Province, Argentina","San Rafael, La Paz, San Lorenzo, Cipolletti, Municipio de Cipolletti, Departamento General Roca, Río Negro, R8324, Argentina","(-38.9234262, -68.0023007, 0.0)"
+"Cole Ranch, California, US","Cole Ranch Road, Olivenhain, Encinitas, San Diego County, California, 92024, United States","(33.0442002, -117.2338932, 0.0)"
+"Torgiano, Central Italy, Italy",,
+"Mâcon-Fuissé, Burgundy, France",,
+"Chorey-lès-Beaune, Burgundy, France",,
+"Veneto, Veneto, Italy","Italy, 2, Via Carducci, Castelnuovo del Garda, Verona, Veneto, 37014, Italia","(45.437878, 10.7543423, 0.0)"
+"Crozes-Hermitage, Rhône Valley, France","Crozes-Hermitage, Valence, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26600, France","(45.0907, 4.84592, 0.0)"
+"Monica di Sardegna, Sicily & Sardinia, Italy",,
+"Gers, Southwest France, France","Gers, Occitanie, France métropolitaine, France","(43.695527600000005, 0.4101019175237992, 0.0)"
+"Moscato d'Asti, Piedmont, Italy",,
+"Maremma, Tuscany, Italy","La Maremma, Via Giuseppe Verdi, San Niccolò, Quartiere 1, Firenze, Toscana, 50122, Italia","(43.7697164, 11.2612205, 0.0)"
+"Bendigo, Victoria, Australia","Bendigo, City of Greater Bendigo, Victoria, 3550, Australia","(-36.7588767, 144.2825931, 0.0)"
+"Vin de Pays d'Oc, Languedoc-Roussillon, France",,
+"Crémant de Limoux, Languedoc-Roussillon, France",,
+"Malvasia delle Lipari, Sicily & Sardinia, Italy",,
+"Famatina Valley, Other, Argentina",,
+"Maury, Languedoc-Roussillon, France",,
+"Prosecco di Conegliano e Valdobbiadene, Veneto, Italy",,
+"Prosecco del Veneto, Veneto, Italy","Via del Prosecco, Fontana, Col San Martino, Farra di Soligo, Treviso, Veneto, Italia","(45.9023795, 12.0923802, 0.0)"
+"Prosecco di Conegliano, Veneto, Italy",,
+"Prosecco Superiore di Cartizze, Veneto, Italy",,
+"Prosecco di Valdobbiadene, Veneto, Italy","Val D'Oca & Sapori - Wine Center - Enoteca Vendita Prosecco, 45, Via San Giovanni, San Giovanni, Bigolino, Valdobbiadene, Treviso, Veneto, 31049, Italia","(45.8734603, 12.0275133, 0.0)"
+"Coteaux du Languedoc, Languedoc-Roussillon, France",,
+"Carignano del Sulcis, Sicily & Sardinia, Italy",,
+"Rivesaltes, Languedoc-Roussillon, France",,
+"Corbières-Boutenac, Languedoc-Roussillon, France",,
+"Falerno del Massico, Southern Italy, Italy",,
+"Frankland River, Western Australia, Australia","Frankland River, Shire Of Cranbrook, Western Australia, 6396, Australia","(-34.3607322, 117.0801807, 0.0)"
+"Lenswood, South Australia, Australia","Lenswood, Adelaide Hills Council, South Australia, 5240, Australia","(-34.920215, 138.8284007, 0.0)"
+"Chelan County, Washington, US","Chelan County, Washington, United States","(47.8012197, -120.6276904, 0.0)"
+"Rasteau, Rhône Valley, France","Impasse du Rasteau, Lotissement Le Boulard, Cabriès, Aix-en-Provence, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13480, France","(43.4451067, 5.3630444, 0.0)"
+"Beechworth, Victoria, Australia","Beechworth, Shire of Indigo, Victoria, 3747, Australia","(-36.3594701, 146.6870096, 0.0)"
+"Banyuls, Languedoc-Roussillon, France",,
+"Lacryma Christi del Vesuvio, Southern Italy, Italy",,
+"Vin de Pays du Val de Loire, Loire Valley, France",,
+"Lake Erie, New York, US","Lake Erie, Ohio, United States","(42.1432445, -81.2396642041535, 0.0)"
+"Arribes del Duero, Northern Spain, Spain",,
+"Mount Barker, Western Australia, Australia","Mount Barker, Shire Of Plantagenet, Western Australia, 6324, Australia","(-34.6220807, 117.6641727, 0.0)"
+"Sonoma County-Monterey County-Santa Barbara County, California, US",,
+"Heathcote, Victoria, Australia","Heathcote, City of Greater Bendigo, Victoria, 3523, Australia","(-36.9160908, 144.7033003, 0.0)"
+"Anderson Valley-Sonoma County-Cole Ranch, California, US",,
+"Tuscany, Tuscany, Italy","Tuscany, Via Niccolò Paganini, Quartiere 5, Firenze, Toscana, 50127, Italia","(43.7914419, 11.2239577, 0.0)"
+"Tierra de Castilla, Central Spain, Spain",,
+"Leverano, Southern Italy, Italy",,
+"Kangaroo Island, South Australia, Australia","Kangaroo Island, Kangaroo Island Council, South Australia, Australia","(-35.8182635, 137.15661254022396, 0.0)"
+"Clarendon, South Australia, Australia","Clarendon, Adelaide, City of Onkaparinga, South Australia, 5159, Australia","(-35.1092718, 138.6293077, 0.0)"
+"Sardinia, Sicily & Sardinia, Italy","Sicily by Car, Via dei Trasvolatori, Su Masu/Elmas, Cagliari, Sardegna, 09030, Italia","(39.2564254, 9.0600276, 0.0)"
+"Piccadilly Valley, South Australia, Australia","Piccadilly, Adelaide Hills Council, South Australia, 5151, Australia","(-34.9822479, 138.7262528, 0.0)"
+"France, France Other, France",,
+"Monferrato, Piedmont, Italy",,
+"Lake County-Mendocino County, California, US","California Department of Forestry WaterTank, Mendo Rock Road, Lake County, California, 95481, United States","(39.1666212, -123.0703036, 0.0)"
+"Teroldego Rotaliano, Northeastern Italy, Italy",,
+"Limoux, Languedoc-Roussillon, France",,
+"Murray-Darling, Victoria, Australia",,
+"Dolcetto di Dogliani, Piedmont, Italy",,
+"Cabardes, Languedoc-Roussillon, France",,
+"Muscat de Beaumes de Venise, Rhône Valley, France",,
+"New South Wales, New South Wales, Australia","HarperCollins Publishers Australia, 201, Elizabeth Street, Darling Quarter, Sydney, Council of the City of Sydney, New South Wales, 2000, Australia","(-33.8737539, 151.2095867, 0.0)"
+"Verdicchio dei Castelli di Jesi Classico Superiore, Central Italy, Italy",,
+"Napa-Mendocino-Sonoma, California, US",,
+"Gavi, Piedmont, Italy",,
+"Napa-Mendocino-Sonoma-Marin, California, US",,
+"Trinity County, California, US","Trinity County, California, United States","(40.6053256, -123.171268, 0.0)"
+"Alta Mesa, California, US","Alta Mesa, Moraga, Contra Costa County, California, 94556, United States","(37.8384635, -122.1219184, 0.0)"
+"Alghero, Sicily & Sardinia, Italy",,
+"Aglianico del Beneventano, Southern Italy, Italy",,
+"Dolcetto di Dogliani Superiore, Piedmont, Italy",,
+"Trentino Superiore, Northeastern Italy, Italy",,
+"Primitivo del Tarantino, Southern Italy, Italy",,
+"San Lucas, California, US","San Lucas, Monterey County, California, 93954, United States","(36.127570500000004, -121.02108317961165, 0.0)"
+"Gavi di Gavi, Piedmont, Italy",,
+"King Valley, Victoria, Australia","King Valley, Rural City of Wangaratta, Victoria, Australia","(-36.694793, 146.4082840631994, 0.0)"
+"Grand River Valley, Ohio, US","Grand River, Lake County, Ohio, 44045, United States","(41.7361547, -81.2812144, 0.0)"
+"Siskiyou County, California, US","Siskiyou County, California, United States","(41.5007223, -122.54435414752092, 0.0)"
+"Alpine Valleys, Victoria, Australia","Alpine Way, Towong Upper, Shire of Towong, Victoria, Australia","(-36.1691304, 148.0248925, 0.0)"
+"Roero Arneis, Piedmont, Italy",,
+"Savennières-Coulée de Serrant, Loire Valley, France",,
+"Diano d'Alba, Piedmont, Italy",,
+"Montefalco Rosso, Central Italy, Italy",,
+"Piedmont, Piedmont, Italy",,
+"Vermentino di Gallura, Sicily & Sardinia, Italy",,
+"Corbières, Languedoc-Roussillon, France",,
+"Vin de Pays des Côtes de Gascogne, Southwest France, France",,
+"Romangia, Sicily & Sardinia, Italy",,
+"Chianti Colli Senesi, Tuscany, Italy",,
+"Saint-Chinian, Languedoc-Roussillon, France",,
+"Murgia, Southern Italy, Italy",,
+"Bardolino Superiore, Veneto, Italy",,
+"Alto Valle de Uco, Mendoza Province, Argentina",,
+"St. David's Bench, Ontario, Canada","St Davids, Warner Road, St. Davids, Niagara-on-the-Lake, Niagara Region, Golden Horseshoe, Ontario, L0S 1P0, Canada","(43.1566694, -79.1078522, 0.0)"
+"Marsala, Sicily & Sardinia, Italy",,
+"Bardolino Classico Superiore, Veneto, Italy",,
+"Yamhill County, Oregon, US","Yamhill County, Oregon, United States","(45.2298399, -123.2180414, 0.0)"
+"Ribera del Guadiana, Central Spain, Spain",,
+"Nuragus di Cagliari, Sicily & Sardinia, Italy",,
+"Vin de Pays Cité de Carcassonne, Languedoc-Roussillon, France",,
+"Castelli Romani, Central Italy, Italy",,
+"Oltrepò Pavese, Lombardy, Italy",,
+"Bardolino Classico, Veneto, Italy",,
+"Custoza, Veneto, Italy","Custoza, Sommacampagna, Verona, Veneto, 37069, Italia","(45.3764733, 10.7959337, 0.0)"
+"Venezia, Veneto, Italy","Venezia, Veneto, Italia","(45.4371908, 12.3345898, 0.0)"
+"Vin de Pays du Lot, Southwest France, France",,
+"Southeastern New England, Massachusetts, US","U.S. Coast Guard - Sector Southeastern New England, Buoy Yard, Woods Hole, Falmouth, Barnstable County, Massachusetts, 02543, United States","(41.52136945, -70.66712316353505, 0.0)"
+"Arcole, Veneto, Italy","Arcole, Verona, Veneto, Italia","(45.3582108, 11.2860916, 0.0)"
+"Strathbogie Ranges, Victoria, Australia","Strathbogie Court, Kilsyth, Montrose, Melbourne, Shire of Yarra Ranges, Victoria, 3765, Australia","(-37.8056262, 145.3319978, 0.0)"
+"Bardolino, Veneto, Italy","Bardolino, Verona, Veneto, 37011, Italia","(45.5475595, 10.7242145, 0.0)"
+"Custoza Superiore, Veneto, Italy",,
+"New Jersey, New Jersey, US",,
+"Est! Est!! Est!!! di Montefiascone, Central Italy, Italy",,
+"Taburno, Southern Italy, Italy",,
+"Pécharmant, Southwest France, France","Le Pécharmant, Rue François Couperin, La Défense 1, Quartier Gambetta, Courbevoie, Arrondissement de Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92400, France","(48.8916709, 2.2540698, 0.0)"
+"Lison-Pramaggiore, Veneto, Italy","Via Lison, Belfiore, Pramaggiore, Venezia, Veneto, Italia","(45.7788246, 12.7367108, 0.0)"
+"Liguria, Northwestern Italy, Italy",,
+"Monterey-Santa Cruz, California, US","Monterey, Paseo del Sol, Temecula, Riverside County, California, United States","(33.4847353, -117.08856464190733, 0.0)"
+"Vin de Pays de L'Herault, Languedoc-Roussillon, France",,
+"Controguerra, Central Italy, Italy",,
+"Falerio dei Colli Ascolani, Central Italy, Italy",,
+"Montepulciano d'Abruzzo Colline Teramane, Central Italy, Italy",,
+"Valdadige, Veneto, Italy","Farmacia Valdadige, 303, Peri, Dolcè, Verona, Veneto, 37020, Italia","(45.6582406, 10.9025042, 0.0)"
+"Conero, Central Italy, Italy",,
+"Vin de Table Francais, France Other, France",,
+"Abruzzo, Central Italy, Italy","Little Italy BBQ Gourmet, 2/4, Via Marco Polo, Portanuova, Pescara, Abruzzo, 65126, Italia","(42.4618672, 14.2164764, 0.0)"
+"Montepulciano d'Abruzzo Cerasuolo, Central Italy, Italy",,
+"Castel del Monte, Southern Italy, Italy",,
+"Calabria, Southern Italy, Italy",,
+"Côtes du Roussillon Villages, Languedoc-Roussillon, France",,
+"Côtes du Roussillon, Languedoc-Roussillon, France",,
+"Primitivo del Salento, Southern Italy, Italy",,
+"Guenoc Valley, California, US","Guenoc Road, Lake County, California, United States","(38.715889, -122.487891, 0.0)"
+"Rutherglen, Victoria, Australia","Rutherglen, Shire of Indigo, Victoria, 3685, Australia","(-36.0538594, 146.4601363, 0.0)"
+"Cerasuolo d'Abruzzo, Central Italy, Italy",,
+"Molise, Southern Italy, Italy",,
+"Picpoul de Pinet, Languedoc-Roussillon, France",,
+"Vin de Pays des Coteaux de Peyriac, Languedoc-Roussillon, France",,
+"Terrasses du Larzac, Languedoc-Roussillon, France",,
+"Vin de Pays des Collines de la Moure, Languedoc-Roussillon, France",,
+"Amarone della Valpolicella Valpantena, Veneto, Italy",,
+"Lacrima di Morro d'Alba, Central Italy, Italy",,
+"Orange, New South Wales, Australia","Orange, Orange City Council, New South Wales, 2800, Australia","(-33.2820463, 149.0971567, 0.0)"
+"Pyrenees, Victoria, Australia","Shire of Pyrenees, Victoria, Australia","(-37.3301195, 143.42380230588194, 0.0)"
+"Aude, Languedoc-Roussillon, France",,
+"Vin de Pays des Côtes Catalanes, Languedoc-Roussillon, France",,
+"Valpolicella Ripasso Classico, Veneto, Italy",,
+"Valpolicella Ripasso Valpantena Superiore, Veneto, Italy",,
+"Tierra de León, Northern Spain, Spain",,
+"Niagara-On-The-Lake, Ontario, Canada","Niagara-on-the-Lake, Niagara Region, Golden Horseshoe, Ontario, Canada","(43.2556116, -79.0723264, 0.0)"
+"Valpolicella Classico, Veneto, Italy",,
+"Corton-Pougets, Burgundy, France",,
+"Valpolicella Valpantena Superiore, Veneto, Italy",,
+"Uclés, Central Spain, Spain","Uclés, Calle Angustias, Uclés, Cuenca, Castilla-La Mancha, 16420, España","(39.9809067, -2.8614954, 0.0)"
+"Sonoma County-Santa Barbara County, California, US",,
+"Clos de Tart, Burgundy, France",,
+"Passito di Pantelleria, Sicily & Sardinia, Italy",,
+"Albana di Romagna, Central Italy, Italy",,
+"Moscadello di Montalcino, Tuscany, Italy",,
+"Recioto di Soave, Veneto, Italy",,
+"Orvieto Classico Superiore, Central Italy, Italy",,
+"Côte de Beaune, Burgundy, France",,
+"Río Negro Valley, Other, Argentina",,
+"Recioto di Soave Classico, Veneto, Italy",,
+"Recioto della Valpolicella Classico, Veneto, Italy",,
+"Passito di Noto, Sicily & Sardinia, Italy",,
+"Central Ranges, Australia Other, Australia",,
+"Mâcon-Cruzille, Burgundy, France",,
+"Vin Santo del Chianti, Tuscany, Italy",,
+"Loazzolo, Piedmont, Italy",,
+"Cortona, Tuscany, Italy","Cortona, Arezzo, Toscana, Italia","(43.2752976, 11.9850623, 0.0)"
+"Valdobbiadene Superiore di Cartizze, Veneto, Italy",,
+"Strevi, Piedmont, Italy",,
+"Recioto della Valpolicella, Veneto, Italy","Strada del Recioto, Busa, San Vito, Negrar di Valpolicella, Verona, Veneto, 37024, Italia","(45.5264025, 10.9410042, 0.0)"
+"Recioto della Valpolicella Valpantena, Veneto, Italy",,
+"Asti, Piedmont, Italy","Piedmont Properties, 78, SP50, San Marzano Oliveto, Asti, Piemonte, 14050, Italia","(44.7605629, 8.2998538, 0.0)"
+"Vin de Pays de Sainte-Marie la Blanche, Burgundy, France",,
+"Montecucco, Tuscany, Italy","Montecucco, Rignano sull'Arno, Firenze, Toscana, 50010, Italia","(43.7387516, 11.385991, 0.0)"
+"Moscato di Noto, Sicily & Sardinia, Italy",,
+"McLaren Vale-Adelaide Hills, South Australia, Australia",,
+"San Antonio Valley, California, US","San Antonio, Marin County, California, United States","(38.1838069, -122.5913723, 0.0)"
+"Colli Euganei, Veneto, Italy","Parco Regionale dei Colli Euganei, 8, Via Rana Cà Mori, Este, Padova, Veneto, 35042, Italia","(45.226734, 11.6638662, 0.0)"
+"Monti Lessini, Veneto, Italy","Monti Lessini, Verona, Veneto, Italia","(45.6550714, 11.00613726178793, 0.0)"
+"Bolgheri Sassicaia, Tuscany, Italy",,
+"Montlouis-sur-Loire, Loire Valley, France","Montlouis-sur-Loire, Tours, Indre-et-Loire, Centre-Val de Loire, France métropolitaine, 37270, France","(47.3881023, 0.8269289, 0.0)"
+"Vi de la Terra Illes Balears, Spanish Islands, Spain",,
+"Saint-Croix-du-Mont, Bordeaux, France",,
+"Premieres Côtes de Bordeaux, Bordeaux, France",,
+"Empordà, Northern Spain, Spain",,
+"Vin de Liqueur, France Other, France",,
+"Mâcon-Pierreclos, Burgundy, France",,
+"Menfi, Sicily & Sardinia, Italy",,
+"Vin de Pays du Val de Cesse, Languedoc-Roussillon, France",,
+"Monreale, Sicily & Sardinia, Italy",,
+"San Gimignano, Tuscany, Italy","San Gimignano, Piazza Duomo, Santa Chiara, San Gimignano, Siena, Toscana, 53038, Italia","(43.4677993, 11.0432115, 0.0)"
+"Patrimonio, France Other, France",,
+"Premieres Côtes de Blaye, Bordeaux, France",,
+"Vittoria Frappato, Sicily & Sardinia, Italy",,
+"Cadillac, Bordeaux, France","Pont de Cadillac, Parempuyre, Bordeaux, Nouvelle-Aquitaine, France métropolitaine, 33290, France","(44.9478909, -0.5569397, 0.0)"
+"Barco Reale di Carmignano, Tuscany, Italy","Barco Reale, Piazza Vittorio Emanuele II, Carmignano, Prato, Toscana, 59016, Italia","(43.8139111, 11.019155, 0.0)"
+"The Hamptons, Long Island, New York, US","Hamptons, Woodbury, Town of Woodbury, Orange County, New York, United States","(41.31706925, -74.12712223648614, 0.0)"
+"Vin de Pays de France, France Other, France",,
+"Canon-Fronsac, Bordeaux, France",,
+"Michigan, Michigan, US","Michigan, 1220, Cass Avenue, Detroit, Wayne County, Michigan, 48226, United States","(42.33136, -83.0520837, 0.0)"
+"Vin de Pays Vignobles de France, France Other, France",,
+"Old Mission Peninsula, Michigan, US","Old Mission, Peninsula Township, Grand Traverse County, Michigan, 49673, United States","(44.9622232, -85.485356, 0.0)"
+"Texas, Texas, US","Texas, Arlington, Tarrant County, Texas, 76011, United States","(32.7563057, -97.0713679, 0.0)"
+"Mokelumne River, California, US","Mokelumne River, Amador County, California, United States","(38.3077953, -120.7314866, 0.0)"
+"Gaillac Doux, Southwest France, France",,
+"Les Baux de Provence, Provence, France","Les Baux-de-Provence, Arles, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13520, France","(43.7436371, 4.795125, 0.0)"
+"Franciacorta, Lombardy, Italy","Franciacorta, Brescia, Lombardia, Italia","(45.612444350000004, 10.05328133186044, 0.0)"
+"Valdobbiadene Prosecco Superiore, Veneto, Italy",,
+"Muscadet Sèvre et Maine Clisson, Loire Valley, France",,
+"Málaga, Andalucia, Spain","Málaga, Málaga-Costa del Sol, Málaga, Andalucía, España","(36.7213028, -4.4216366, 0.0)"
+"Trento, Northeastern Italy, Italy",,
+"San Luis Obispo-Sonoma-Monterey, California, US",,
+"Valle d'Aosta, Northwestern Italy, Italy",,
+"Muscadet Côtes de Grandlieu, Loire Valley, France",,
+"Ladoix, Burgundy, France",,
+"Erbaluce di Caluso, Piedmont, Italy",,
+"Sonoma, California, US","Sonoma County, California, United States","(38.5110803, -122.8473388, 0.0)"
+"Mâcon-Uchizy, Burgundy, France",,
+"Catalanesca del Monte Somma, Southern Italy, Italy",,
+"Bourgogne Epineuil, Burgundy, France",,
+"Ghemme, Piedmont, Italy",,
+"Bordeaux Clairet, Bordeaux, France",,
+"Dolcetto di Diano d'Alba, Piedmont, Italy",,
+"Friuli Venezia Giulia, Northeastern Italy, Italy",,
+"Corton Les Lolières, Burgundy, France",,
+"Clos Saint-Denis, Burgundy, France",,
+"Capay Valley, California, US","Capay, Glenn County, California, United States","(39.7965477, -122.084428, 0.0)"
+"Gattinara, Piedmont, Italy",,
+"Chianti Montespertoli, Tuscany, Italy",,
+"Romagna, Central Italy, Italy","Località I Botti, Morfasso (Pc) (Italy), Piacenza, Emilia-Romagna, Italia","(44.705595, 9.717744893877548, 0.0)"
+"Asolo Prosecco Superiore, Veneto, Italy",,
+"Costa Toscana, Tuscany, Italy","la Costa, Sillano Giuncugnano, Unione Comuni Garfagnana, Lucca, Toscana, 55039, Italia","(44.2091823, 10.2612037, 0.0)"
+"Emilia, Central Italy, Italy","Località I Botti, Morfasso (Pc) (Italy), Piacenza, Emilia-Romagna, Italia","(44.705595, 9.717744893877548, 0.0)"
+"Chianti Colli Pisani, Tuscany, Italy",,
+"Pouilly-Loché, Burgundy, France",,
+"Italy, Italy Other, Italy",,
+"Prosecco Treviso, Veneto, Italy","Via del Prosecco, Fontana, Col San Martino, Farra di Soligo, Treviso, Veneto, Italia","(45.9023795, 12.0923802, 0.0)"
+"Montello e Colli Asolani, Veneto, Italy",,
+"Côtes du Roussillon Villages Tautavel, Languedoc-Roussillon, France",,
+"Mitterberg, Northeastern Italy, Italy",,
+"Corton-Bressandes, Burgundy, France",,
+"Mâcon Chaintré, Burgundy, France",,
+"Val di Cornia Suvereto, Tuscany, Italy","Via Val di Cornia, Suvereto, Livorno, Toscana, 57028, Italia","(43.0719415, 10.7135421, 0.0)"
+"Alta Valle della Greve, Tuscany, Italy",,
+"Clare Valley-Eden Valley, South Australia, Australia",,
+"Ischia, Southern Italy, Italy",,
+"Copertino, Southern Italy, Italy",,
+"Brachetto d'Acqui, Piedmont, Italy",,
+"Lambrusco di Modena, Central Italy, Italy",,
+"Monteregio di Massa Marittima, Tuscany, Italy","Castello di Monteregio, Via San Francesco, Citta nuova, Podere Spina, Ghirlanda, Massa Marittima, Grosseto, Toscana, 58024, Italia","(43.052084699999995, 10.889615415770738, 0.0)"
+"Cérons, Bordeaux, France","Rue de Cérons, Martignas-sur-Jalle, Bordeaux, Nouvelle-Aquitaine, France métropolitaine, 33127, France","(44.844275, -0.7972605, 0.0)"
+"Puget Sound, Washington, US","Puget Sound, Island County, Washington, United States","(47.8331514, -122.4345806, 0.0)"
+"Ruché di Castagnole Monferrato, Piedmont, Italy",,
+"Saint-Nicolas-de-Bourgueil, Loire Valley, France","Saint-Nicolas-de-Bourgueil, Chinon, Indre-et-Loire, Centre-Val de Loire, France métropolitaine, 37140, France","(47.2843794, 0.1256895, 0.0)"
+"Pompeiano, Southern Italy, Italy",,
+"Emilia-Romagna, Central Italy, Italy",,
+"Mâcon-Azé, Burgundy, France",,
+"Crémant de Bordeaux, Bordeaux, France",,
+"Mâcon-Vergisson, Burgundy, France",,
+"Verdicchio di Matelica, Central Italy, Italy",,
+"Gioia del Colle, Southern Italy, Italy",,
+"Outer Coastal Plain, New Jersey, US",,
+"Galluccio, Southern Italy, Italy",,
+"Vin de Pays des Portes de Méditerranée, France Other, France",,
+"Colli Pesaresi, Central Italy, Italy",,
+"Cesanese del Piglio, Central Italy, Italy",,
+"Mâcon-Milly Lamartine, Burgundy, France",,
+"Mâcon-Davayé, Burgundy, France",,
+"Mâcon-Loché, Burgundy, France",,
+"Sonoma County-Monterey County, California, US",,
+"Vino de la Tierra Ribera del Gállego-Cinco Villas, Northern Spain, Spain",,
+"Bourgogne Vézelay, Burgundy, France",,
+"Muscat de Saint-Jean de Minervois, Languedoc-Roussillon, France",,
+"Coteaux du Lyonnais, Beaujolais, France",,
+"Colline Teatine, Central Italy, Italy",,
+"Sonoma-Napa-Mendocino, California, US",,
+"Curtefranca, Lombardy, Italy",,
+"Colline Lucchesi, Tuscany, Italy",,
+"Côtes de Thongue, Languedoc-Roussillon, France",,
+"Alicante-Marina Alta, Levante, Spain","Growshop Benidorm Supernatural Spain, 8, Carrer Maravall, Pla de Maravall, Benidorm, la Marina Baixa, Alacant / Alicante, Comunitat Valenciana, 03501, España","(38.53834335, -0.13505738626235478, 0.0)"
+"Colli di Luni, Northwestern Italy, Italy",,
+"Offida Pecorino, Central Italy, Italy",,
+"Minervois La Liviniere, Languedoc-Roussillon, France",,
+"Coteaux de Verdon, Provence, France",,
+"Piave, Veneto, Italy","Piave, Veneto, 32038, Italia","(46.1551313, 12.2517021, 0.0)"
+"Aude Hauterive, Languedoc-Roussillon, France",,
+"Mâcon-Charnay, Burgundy, France",,
+"Orcia, Tuscany, Italy","Orcia, Siena, Toscana, 53027, Italia","(43.0201424, 11.6088904, 0.0)"
+"McLaren Vale-Padthaway, South Australia, Australia",,
+"Valpolicella Valpantena, Veneto, Italy",,
+"Fitou, Languedoc-Roussillon, France",,
+"Napa-Sonoma-Lake, California, US","Bothe-Napa Valley State Park, Napa County, California, United States","(38.540524149999996, -122.54835743348914, 0.0)"
+"Montecarlo, Tuscany, Italy","Montecarlo, Lucca, Toscana, 55015, Italia","(43.8511862, 10.6676214, 0.0)"
+"Cucamonga Valley, California, US","Rancho Cucamonga, San Bernardino County, California, United States","(34.1033192, -117.5751735, 0.0)"
+"Rosazzo, Northeastern Italy, Italy",,
+"Napa-Sonoma-Monterey, California, US",,
+"Prince Edward County, Ontario, Canada","Prince Edward County, Central Ontario, Ontario, Canada","(44.031827, -77.246933, 0.0)"
+"Vino de la Tierra del Bajo Aragón, Northern Spain, Spain",,
+"Forlì, Central Italy, Italy","Northern Italy Pipeline System, Via del Confine, Quartiere Cervese Nord, Cesena, Unione dei comuni Valle del Savio, Forlì-Cesena, Emilia-Romagna, Italia","(44.2246723, 12.2934906, 0.0)"
+"Côtes de Bordeaux Francs, Bordeaux, France",,
+"Malibu Coast, California, US","The Surfrider Malibu, 23033, Pacific Coast Highway, Malibu Beach, Malibu, Los Angeles County, California, 90265, United States","(34.03711165, -118.67796130796515, 0.0)"
+"Bordeaux Côtes de Francs , Bordeaux, France",,
+"Mâcon-Péronne, Burgundy, France",,
+"Terre di Franciacorta, Lombardy, Italy","Residence Terre di Franciacorta, Saiano, Rodengo Saiano, Brescia, Lombardia, Italia","(45.59955195, 10.106685764146746, 0.0)"
+"Vin de Pays des Cévennes, Rhône Valley, France",,
+"La Clape, Languedoc-Roussillon, France",,
+"Sainte-Foy Bordeaux, Bordeaux, France","Rue Foy, Fondaudège, Chartrons - Grand Parc - Jardin Public, Bordeaux, Nouvelle-Aquitaine, France métropolitaine, 33000, France","(44.8489497, -0.5728811, 0.0)"
+"El Pomar District, California, US","Le Pomar Terrace, Niles District, Fremont, Alameda County, California, 94536, United States","(37.579658, -121.9933109, 0.0)"
+"Lake County-Sonoma County, California, US",,
+"Ramona Valley, California, US","Ramona, San Diego County, California, 92065, United States","(33.035378, -116.86751322074122, 0.0)"
+"Mudgee, New South Wales, Australia","Mudgee, Mid-Western Regional Council, New South Wales, 2850, Australia","(-32.5980702, 149.5886383, 0.0)"
+"Medrano, Mendoza Province, Argentina","Medrano, Maza, Partido de Adolfo Alsina, Buenos Aires, 6343, Argentina","(-36.7958068, -63.3404062, 0.0)"
+"Lime Kiln Valley, California, US","Lime Kiln Road, Tuolumne County, California, 95364, United States","(37.940762, -120.357901, 0.0)"
+"Alpilles, Provence, France","Alpilles, Avenue du Val Saint-André, Val de l'Arc, Val Saint-André, Aix-en-Provence, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13626, France","(43.5158728, 5.47209632746815, 0.0)"
+"Barbera del Monferrato Superiore, Piedmont, Italy",,
+"Sonoma County-San Joaquin County, California, US",,
+"Faugères, Languedoc-Roussillon, France",,
+"Sonoma County-Lake County, California, US",,
+"Griotte-Chambertin, Burgundy, France",,
+"Biferno Rosso, Southern Italy, Italy",,
+"Darlington Point, New South Wales, Australia","Darlington Point, Murrumbidgee Council, New South Wales, 2706, Australia","(-34.5659957, 146.0002828, 0.0)"
+"Blanquette de Limoux, Languedoc-Roussillon, France",,
+"Gard, Languedoc-Roussillon, France","Urssaf Languedoc-Roussillon - Site du Gard, Chemin Bas du Mas de Boulan, Marronniers, Nîmes, Gard, Occitanie, France métropolitaine, 30035, France","(43.8228184, 4.3688296, 0.0)"
+"Vino de la Tierra Contraviesa Alpujarra, Andalucia, Spain",,
+"Amador-Napa, California, US",,
+"Iowa, Iowa, US","The University of Iowa, Hawks Ridge Road, Ruppert Hills, Iowa City, Johnson County, Iowa, 52246, United States","(41.66586935, -91.57334352186675, 0.0)"
+"Australia-New Zealand, Australia Other, Australia",,
+"Veneto Orientale, Veneto, Italy","CTVO Consorzio Taxi Veneto Orientale, Via Cesare Battisti, Jesolo, Venezia, Veneto, 30016, Italia","(45.5364151, 12.6430493, 0.0)"
+"Colli Asolani Prosecco, Veneto, Italy",,
+"Vougeot, Burgundy, France",,
+"Rosso di Cerignola, Southern Italy, Italy",,
+"Riviera Ligure di Ponente, Northwestern Italy, Italy",,
+"Barbera del Monferrato, Piedmont, Italy",,
+"Currency Creek, South Australia, Australia","Currency Creek, Alexandrina Council, South Australia, 5214, Australia","(-35.4525549, 138.7598074, 0.0)"
+"Dolcetto d'Asti, Piedmont, Italy",,
+"Strathbogie Ranges-Mornington Peninsula, Victoria, Australia",,
+"Vin Santo di Montepulciano, Tuscany, Italy",,
+"Madera, California, US","Madera, Madera County, California, United States","(36.9418115, -120.17143817857142, 0.0)"
+"St.-Romain, Burgundy, France",,
+"Breganze, Veneto, Italy","Breganze, Vicenza, Veneto, 36042, Italia","(45.7081441, 11.5647668, 0.0)"
+"Chianti Colli Aretini, Tuscany, Italy",,
+"Central Victoria, Victoria, Australia","La Central, Coventry Street, South Melbourne, St Kilda West, Melbourne, City of Port Phillip, Victoria, 3182, Australia","(-37.8326622, 144.9567877, 0.0)"
+"Maranges, Burgundy, France",,
+"Colli di Conegliano, Veneto, Italy","Via dei Colli, Conegliano, Treviso, Veneto, 31015, Italia","(45.8870343, 12.2906527, 0.0)"
+"Ramandolo, Northeastern Italy, Italy",,
+"Moscato di Trani, Southern Italy, Italy",,
+"Dolcetto d'Alba Superiore, Piedmont, Italy",,
+"Dolcetto di Monferrato, Piedmont, Italy",,
+"Augusta, Missouri, US","Augusta, Saint Charles County, Missouri, United States","(38.5725523, -90.8820811, 0.0)"
+"Vino de Calidad de Tierras de León, Northern Spain, Spain",,
+"Tumbarumba, New South Wales, Australia","Tumbarumba, Snowy Valleys Council, New South Wales, 2653, Australia","(-35.7764898, 148.010062, 0.0)"
+"Nardò, Southern Italy, Italy",,
+"Muscat de Rivesaltes, Languedoc-Roussillon, France",,
+"Bizkaiko Txakolina, Northern Spain, Spain",,
+"Extremadura, Central Spain, Spain","Alanfruits Spain, Km. 39,5, Carretera de Don Benito a Portugal por Almendralejo, Alange, Badajoz, Extremadura, 06840, España","(38.797250399999996, -6.241954383350638, 0.0)"
+"Barossa-Adelaide Hills, South Australia, Australia",,
+"Vesuvio, Southern Italy, Italy",,
+"Tarragona, Catalonia, Spain","Tarragona, Tarragonès, Tarragona, Catalunya, 43001, España","(41.1172364, 1.2546057, 0.0)"
+"Irancy, Burgundy, France",,
+"Gravina, Southern Italy, Italy",,
+"Savuto, Southern Italy, Italy",,
+"Coteaux du Vendômois, Loire Valley, France",,
+"Bourgogne Grand Ordinaire, Burgundy, France",,
+"Arlanza, Northern Spain, Spain",,
+"Leelanau Peninsula, Michigan, US",,
+"Mâcon-Verze, Burgundy, France",,
+"Vin de Pays des Côtes de Thongue, Languedoc-Roussillon, France",,
+"Coteaux d'Ancenis, Loire Valley, France",,
+"Colli di Rimini, Central Italy, Italy",,
+"San Marino, Central Italy, Italy",,
+"Lamezia, Southern Italy, Italy",,
+"Coteaux du Layon La Faye, Loire Valley, France","Rue des Coteaux du Layon, Faye-d'Anjou, Bellevigne-en-Layon, Angers, Maine-et-Loire, Pays de la Loire, France métropolitaine, 49380, France","(47.2929454, -0.5232988, 0.0)"
+"San Carlos, Mendoza Province, Argentina","San Carlos, Deseado, Santa Cruz, Argentina","(-46.4290979, -67.9346781, 0.0)"
+"Gippsland, Victoria, Australia","Gippsland, Victoria, Australia","(-37.87437, 146.91145036930226, 0.0)"
+"Vino de Mesa, Spain Other, Spain",,
+"Conero Riserva, Central Italy, Italy",,
+"Sonoma-Mendocino, California, US","Sonoma County Agricultural Preservation and Open Space District, 747, Mendocino Avenue, Santa Rosa, Sonoma County, California, 95404, United States","(38.4469181, -122.7180726, 0.0)"
+"Cilento, Southern Italy, Italy",,
+"Coteaux du Layon Saint Aubin, Loire Valley, France",,
+"Mendocino-Amador, California, US",,
+"Mendocino-Solano, California, US","Mendocino Street, Vallejo, Solano County, California, 94590, United States","(38.1081962, -122.2331112, 0.0)"
+"Verduno, Piedmont, Italy",,
+"Bonnezeaux, Loire Valley, France","Bonnezeaux, Rue Bonnezeaux, Parc d'Ativités de l’Écuyère, Cholet, Maine-et-Loire, Pays de la Loire, France métropolitaine, 49300, France","(47.0785386, -0.8368063, 0.0)"
+"Offida Rosso, Central Italy, Italy",,
+"Southern Flinders Ranges, South Australia, Australia",,
+"Colli Trevigiani, Northeastern Italy, Italy",,
+"Paestum, Southern Italy, Italy",,
+"Vino de la Tierra de Zamora, Northern Spain, Spain",,
+"Barossa Valley-Clare Valley, South Australia, Australia",,
+"Saumur-Champigny, Loire Valley, France","Champignonnière France Champignon, Dampierre-sur-Loire, Souzay-Champigny, Saumur, Maine-et-Loire, Pays de la Loire, France métropolitaine, 49400, France","(47.23229335, -0.02113217216551454, 0.0)"
+"Hames Valley, California, US","Hames Creek, Monterey County, California, United States","(35.8685716, -120.8456156, 0.0)"
+"Coteaux de l'Aubance, Loire Valley, France",,
+"Sangiovese di Toscana, Tuscany, Italy",,
+"Malibu-Newton Canyon, California, US","Malibu, Lower Peters Canyon, Irvine, Orange County, California, 92602, United States","(33.7311196, -117.7645119, 0.0)"
+"Olevano Romano, Central Italy, Italy",,
+"North Yuba, California, US","Yuba County, California, United States","(39.2839755, -121.3556818, 0.0)"
+"Gundagai, New South Wales, Australia","Cootamundra-Gundagai Regional Council, New South Wales, Australia","(-34.80940095, 148.10881410677436, 0.0)"
+"Tehema Foothills, California, US",,
+"Granite Belt, Queensland, Australia","Granite Belt Drive, Thulimbah, Cotton Vale, Southern Downs Regional, Queensland, 4375, Australia","(-28.5359421, 151.948828, 0.0)"
+"Colli di Faenza, Central Italy, Italy",,
+"Catalonia, Catalonia, Spain","Creu Roja Catalunya, 120;124, Carrer de Joan d'Àustria, el Parc i la Llacuna del Poblenou, Sant Martí, Barcelona, Barcelonès, Barcelona, Catalunya, 08018, España","(41.3960809, 2.187968871820229, 0.0)"
+"Albemarle County, Virginia, US","Albemarle County, Virginia, United States","(38.0085107, -78.6086754, 0.0)"
+"Anjou Villages, Loire Valley, France","Galva Anjou Touraine, Noyant, Noyant-Villages, Saumur, Maine-et-Loire, Pays de la Loire, France métropolitaine, 49490, France","(47.51815895, 0.12858233212816428, 0.0)"
+"Rosé de Loire, Loire Valley, France","De La Loire, Route de Lyon, Brives-Charensac, Le Puy-en-Velay, Haute-Loire, Auvergne-Rhône-Alpes, France métropolitaine, 43700, France","(45.047760499999995, 3.928118002100837, 0.0)"
+"Aminga Valley, Other, Argentina",,
+"Vino Tierra de León, Northern Spain, Spain",,
+"Friuli Aquileia, Northeastern Italy, Italy",,
+"Crémant de Jura, France Other, France",,
+"Columbia Valley-Walla Walla Valley, Washington, US",,
+"Lake Michigan Shore, Michigan, US","Michigan State Police, Lake Shore Drive, Gladstone, Delta County, Michigan, 49837, United States","(45.8411111, -87.0188889, 0.0)"
+"Mount Harlan, California, US","Mount Harlan, San Benito County, California, United States","(36.6974604, -121.405214, 0.0)"
+"Goulburn Valley, Victoria, Australia","Goulburn River, Victoria, 3712, Australia","(-36.6190989, 145.2334651, 0.0)"
+"Marca Trevigiana, Veneto, Italy","Ospedale di Asolo - ULSS 2 Marca Trevigiana, Via Forestuzzo, Cà Giupponi, Casella d'Asolo, Asolo, Treviso, Veneto, 31011, Italia","(45.79616915, 11.912388868014252, 0.0)"
+"Saint-Péray, Rhône Valley, France","Saint-Péray, Tournon-sur-Rhône, Ardèche, Auvergne-Rhône-Alpes, France métropolitaine, 07130, France","(44.9454417, 4.8430943, 0.0)"
+"Beaumes-de-Venise, Rhône Valley, France","Route de Lafare, Les Cascades, Beaumes-de-Venise, Carpentras, Vaucluse, Provence-Alpes-Côte d'Azur, France métropolitaine, 84190, France","(44.1353808, 5.0447123, 0.0)"
+"Ribera del Queiles, Northern Spain, Spain",,
+"Riverland, South Australia, Australia","Unincorporated Area Riverland, South Australia, Australia","(-34.0238625, 140.77468455914368, 0.0)"
+"Chaume, Loire Valley, France","La Chaume, La Chaume Nord, Les Sables-d'Olonne, Pays de la Loire, France métropolitaine, 85100, France","(46.4971966, -1.8037854, 0.0)"
+"California-Washington, California, US","California & Washington, North California Avenue, East Garfield Park, Chicago, Cook County, Illinois, 60625, United States","(41.882742, -87.6962347, 0.0)"
+"Touraine Mesland, Loire Valley, France","Route de Touraine, Mesland, Blois, Loir-et-Cher, Centre-Val de Loire, France métropolitaine, 41150, France","(47.5077338, 1.1220406, 0.0)"
+"Tierra Manchuela, Central Spain, Spain",,
+"Mendocino-Sonoma-Amador, California, US",,
+"Pouilly-sur-Loire, Loire Valley, France","Pouilly-sur-Loire, Cosne-Cours-sur-Loire, Nièvre, Bourgogne-Franche-Comté, France métropolitaine, 58150, France","(47.281542, 2.9583419, 0.0)"
+"Vino de la Tierra Ribera del Jiloca, Northern Spain, Spain",,
+"Vin de Pays du Jardin de la France, Loire Valley, France",,
+"Garda, Northeastern Italy, Italy",,
+"Montefalco, Central Italy, Italy",,
+"Macon-Verge, Burgundy, France",,
+"McDowell Valley, California, US","Fort McDowell, Tiburon, Marin County, California, United States","(37.8627046, -122.4227496, 0.0)"
+"Ohio, Ohio, US","Ohio, Town of Ohio, Herkimer County, New York, 13324, United States","(43.32243, -74.9786, 0.0)"
+"Garda Classico, Northeastern Italy, Italy",,
+"Lake Erie North Shore, Ontario, Canada",,
+"Vin de Pays des Coteaux de Bessilles, Languedoc-Roussillon, France",,
+"Currency Creek-McLaren Vale, South Australia, Australia",,
+"Côtes du Luberon, Rhône Valley, France",,
+"Zonda Valley, Other, Argentina",,
+"Burgundy, Burgundy, France","Burgundy Farm Country Day School, 3700, Burgundy Road, Burgundy Village, Alexandria, Fairfax County, Virginia, 22303, United States","(38.7984361, -77.0958528780524, 0.0)"
+"Casorzo, Piedmont, Italy",,
+"Jahant, California, US","East Jahant Road, San Joaquin County, California, 95237, United States","(38.204588, -121.177821, 0.0)"
+"Grampians, Victoria, Australia","Grampians, Victoria, Australia","(-36.718805, 142.22095086226386, 0.0)"
+"Provincia di Pavia, Lombardy, Italy","Pavia, Lombardia, Italia","(45.036854649999995, 9.137825082826026, 0.0)"
+"Short Hills Bench, Ontario, Canada",,
+"Virginia's Eastern Shore, Virginia, US",,
+"Vallée du Paradis, Languedoc-Roussillon, France",,
+"Finca Élez, Central Spain, Spain",,
+"Chignin-Bergeron, France Other, France",,
+"Solano County Green Valley, California, US","Solano Lake Campground, CA 128, Yolo County, California, United States","(38.49452865000001, -122.0328691654142, 0.0)"
+"Roussette de Savoie, France Other, France",,
+"Savoie, France Other, France",,
+"Mazoyeres-Chambertin, Burgundy, France",,
+"Dolcetto d'Acqui, Piedmont, Italy",,
+"Mâcon-Prissé, Burgundy, France",,
+"Saddle Rock-Malibu, California, US",,
+"Pays de Loire, Loire Valley, France","Le France, 69, Avenue Robert Buron, Crossardière, Laval, Mayenne, Pays de la Loire, France métropolitaine, 53000, France","(48.0740778, -0.7627487, 0.0)"
+"McLaren Vale-Beechworth, Australia Other, Australia",,
+"Corse Porto Vecchio, France Other, France",,
+"Colli Martani, Central Italy, Italy",,
+"Donnici, Southern Italy, Italy",,
+"Apremont, France Other, France",,
+"Colli Tortonesi, Piedmont, Italy",,
+"Vin de Pays de l'Ile de Beauté, France Other, France",,
+"Asprinio di Aversa, Southern Italy, Italy",,
+"Saint-Georges-Saint-Émilion, Bordeaux, France",,
+"Penisola Sorrentina, Southern Italy, Italy",,
+"Martina, Southern Italy, Italy",,
+"Corton Perrières, Burgundy, France",,
+"Napa County-Sonoma County-Lake County, California, US",,
+"Hautes Côtes de Nuits, Burgundy, France",,
+"Hautes Cotes de Beaune, Burgundy, France",,
+"Côtes-du-Ventoux, Rhône Valley, France",,
+"Santa Barbara-Monterey, California, US","Santa Barbara Park, Soledad, Monterey County, California, United States","(36.44019875, -121.31841319547219, 0.0)"
+"Vin de Pays de L'Aude, Languedoc-Roussillon, France",,
+"Vin de Pays de Hauterive, Languedoc-Roussillon, France",,
+"Bullas, Levante, Spain","Calle de Levante, Bullas, Noroeste, Región de Murcia, 30180, España","(38.0523189, -1.6601109, 0.0)"
+"Lombardy, Lombardy, Italy","Nelsa Srl - MOL Group Italy, Caccivio, Lurate Caccivio, Como, Lombardia, Italia","(45.772014799999994, 8.989867754035135, 0.0)"
+"Napa-Sonoma-Marin, California, US",,
+"Musigny, Burgundy, France",,
+"Vin Doux Naturel Rasteau, Rhône Valley, France",,
+"Vin de Pays des Coteaux de L'Ardeche, France Other, France",,
+"Muscadet Coteaux de la Loire, Loire Valley, France",,
+"Toledo, Central Spain, Spain","Camping Navahermosa la Milagra, Camino rural a Hontanar, Navahermosa, Montes de Toledo, Toledo, Castilla-La Mancha, 45159, España","(39.6208638, -4.4892414, 0.0)"
+"Vin de Pays de Montferrand, Languedoc-Roussillon, France",,
+"Napa County-Lake County, California, US",,
+"Del Veneto, Northeastern Italy, Italy",,
+"Niagara Escarpment, Ontario, Canada","Niagara Escarpment, Hamilton, Golden Horseshoe, Ontario, L8S 4P2, Canada","(43.2447011, -79.938325, 0.0)"
+"Mount Benson, South Australia, Australia","Mount Benson, District Council of Robe, South Australia, Australia","(-37.0328183, 139.8112521, 0.0)"
+"Vermont, Vermont, US","University of Vermont, North Prospect Street, North hill section, Burlington, Chittenden County, Vermont, 05401, United States","(44.4737365, -73.19414679705882, 0.0)"
+"Western Connecticut Highlands, Connecticut, US",,
+"Colline Teramane, Central Italy, Italy",,
+"Santa Clara County, California, US","Santa Clara County, California, United States","(37.2333253, -121.6846349, 0.0)"
+"Napa Valley-Paso Robles, California, US",,
+"Rivesaltes Rosé, Languedoc-Roussillon, France",,
+"Côtes du Roussillon Villages Caramany, Languedoc-Roussillon, France",,
+"Lago di Corbara, Central Italy, Italy",,
+"Madrid, Central Spain, Spain","Biblioteca Nacional de España, 20-22, Paseo de Recoletos, Recoletos, Salamanca, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28071, España","(40.4237276, -3.6899043, 0.0)"
+"Sebino, Lombardy, Italy","Lago d'Iseo, Riva di Solto, Comunità montana del Sebino bresciano, Bergamo, Lombardia, Italia","(45.7388781, 10.07086612061877, 0.0)"
+"Coteaux du Languedoc-Pézenas, Languedoc-Roussillon, France",,
+"Galatina, Southern Italy, Italy",,
+"Colli Perugini, Central Italy, Italy",,
+"Sonoma-Santa Barbara-Mendocino, California, US",,
+"Vin de Pays des Côtes de Thau, Languedoc-Roussillon, France",,
+"Assisi, Central Italy, Italy","St. Francis of Assisi Church, 72, Mansfield Avenue, Little Italy, University—Rosedale, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6J 2N8, Canada","(43.6534756, -79.41459718646617, 0.0)"
+"Todi, Central Italy, Italy","Fabric Lab Italy, 7, Via Todi, Frati, Busto Arsizio, Varese, Lombardia, 21052, Italia","(45.6127672, 8.8745177, 0.0)"
+"Torgiano Rosso Riserva, Central Italy, Italy",,
+"Mendocino-Lake County-Napa, California, US",,
+"Côtes de Montravel, Southwest France, France",,
+"Aleatico dell'Elba, Tuscany, Italy",,
+"Western Plains, New South Wales, Australia","Dubbo Regional Council, New South Wales, Australia","(-32.4745294, 148.83686186564694, 0.0)"
+"Vin de Pays de la Vallée de l’Aude, Languedoc-Roussillon, France",,
+"Vin de Pays de Caux, Languedoc-Roussillon, France",,
+"Barossa Valley-McLaren Vale, South Australia, Australia",,
+"Ohio River Valley, Ohio, US","Ohio River, New Cumberland, Hancock County, West Virginia, 43926, United States","(40.5263918, -80.624671, 0.0)"
+"Clos de Lambrays, Burgundy, France",,
+"Cortese di Gavi, Piedmont, Italy",,
+"Henty, South Australia, Australia","The Henty, 96, Jubilee Highway East, Mount Gambier, City of Mount Gambier, South Australia, 5290, Australia","(-37.8322828, 140.7945633, 0.0)"
+"La Grande Rue, Burgundy, France",,
+"Côtes de Frontonnais, Southwest France, France",,
+"Clairette de Die, Rhône Valley, France","La Clairette, Les Vans, Largentière, Ardèche, Auvergne-Rhône-Alpes, France métropolitaine, 07140, France","(44.4073325, 4.1383248, 0.0)"
+"Grand Roussillon, Languedoc-Roussillon, France",,
+"Vin de Pays de la Haute Vallée de l’Aude, Languedoc-Roussillon, France",,
+"Kentucky, Kentucky, US","University of Kentucky, East Vine Street, Central Business District, Lexington, Fayette County, Kentucky, 40506, United States","(38.027035749999996, -84.50481984038481, 0.0)"
+"Vin de Pays des Coteaux de Murviel, Languedoc-Roussillon, France",,
+"Vin de Pays des Pyrénees Orientales, Southwest France, France",,
+"Quebec, Canada Other, Canada",,
+"Canada, Canada Other, Canada",,
+"Massachusetts, Massachusetts, US","The Massachusetts, 425, Massachusetts Avenue, Lockerbie Square, Indianapolis, Marion, Indiana, 46204, United States","(39.7729923, -86.15140127048346, 0.0)"
+"St.-Véran, Burgundy, France",,
+"Southern Fleurieu, South Australia, Australia",,
+"Macedon Ranges, Victoria, Australia","Macedon, Shire of Macedon Ranges, Victoria, 3440, Australia","(-37.4214267, 144.5636447, 0.0)"
+"Napa-Amador, California, US",,
+"Civitella d'Agliano, Central Italy, Italy",,
+"Sonoma-Napa-Monterey, California, US",,
+"Geelong, Victoria, Australia","Geelong, Victoria, 3220, Australia","(-38.1492813, 144.3598269, 0.0)"
+"Vermentino di Toscana, Tuscany, Italy",,
+"Chardonnay di Toscana, Tuscany, Italy",,
+"Crémant de Die, Rhône Valley, France",,
+"Blanc Fumé de Pouilly, Loire Valley, France",,
+"Castilla La Mancha, Central Spain, Spain","VESTAS Spain, Avenida de los Vientos, Polígono Industrial ""CIDAG"", Daimiel, La Mancha, Ciudad Real, Castilla-La Mancha, 13250, España","(39.0442636, -3.58498245567418, 0.0)"
+"San Diego County, California, US","San Diego County, California, United States","(32.9637838, -116.7706277, 0.0)"
+"Collioure, Languedoc-Roussillon, France",,
+"Napa-Mendocino-Santa Clara Counties, California, US",,
+"Yarra Valley-Heathcote, Victoria, Australia",,
+"Haut-Poitou, Loire Valley, France","Haut-Bizay vers Pas de Loup, Grand Fond, Brézé, Bellevigne-les-Châteaux, Saumur, Maine-et-Loire, Pays de la Loire, France métropolitaine, 86120, France","(47.1592878, -0.0153828, 0.0)"
+"Candia Dei Colli Apuani, Tuscany, Italy",,
+"Moscato di Pantelleria, Sicily & Sardinia, Italy",,
+"Barossa-Langhorne Creek, South Australia, Australia",,
+"Emporadà-Costa Brava, Northern Spain, Spain",,
+"Southern Highlands, New South Wales, Australia",,
+"Adelaide Plains, South Australia, Australia","Adelaide Plains Council, South Australia, Australia","(-34.512009500000005, 138.44268852404895, 0.0)"
+"Biferno Bianco, Southern Italy, Italy",,
+"Cirò Classico, Southern Italy, Italy",,
+"California-Oregon, California, US","California Oregon, Sacramento Avenue, Dunsmuir, Siskiyou County, California, 96025, United States","(41.209752, -122.2716101, 0.0)"
+"Mâcon-Mancey, Burgundy, France",,
+"Catamarca, Other, Argentina","Other Look, Belgrano, Bernal Este, Bernal, Partido de Quilmes, Buenos Aires, B1876, Argentina","(-34.7165244, -58.275414, 0.0)"
+"Nevada, Nevada, US","University of Nevada, Las Vegas, 4505, Maryland Circle, Midtown UNLV, Las Vegas, Clark County, Nevada, 89154, United States","(36.107155399999996, -115.14183186108524, 0.0)"
+"Isle St. George, Ohio, US","Isle Saint George, Put-in-Bay Township, Ottawa County, Ohio, 43436, United States","(41.7176504, -82.8153332, 0.0)"
+"Falerio, Central Italy, Italy",,
+"Fara, Piedmont, Italy",,
+"Clairette de Bellegarde, Rhône Valley, France",,
+"Coteaux Champenois, Champagne, France",,
+"Rosso del Salento, Southern Italy, Italy",,
+"Mendocino-Amador-Napa, California, US",,
+"Gambellara Classico, Veneto, Italy",,
+"Cuyo, Other, Argentina",,
+"Vin de Pays de Côtes du Tarn, Southwest France, France",,
+"McLaren Vale-Langhorne Creek, South Australia, Australia",,
+"Vin de Pays des Sables du Golfe du Lion, Languedoc-Roussillon, France",,
+"Apulia, Southern Italy, Italy",,
+"Moselle VDQS, France Other, France",,
+"Stanislaus County, California, US","Stanislaus County, California, United States","(37.5500871, -121.0501425, 0.0)"
+"South Australia-Victoria, Australia Other, Australia",,
+"Bellarine Peninsula, Victoria, Australia","Bellarine Peninsula Rail Trail, Point Lonsdale, Victoria, 3225, Australia","(-38.2575643, 144.6125111, 0.0)"
+"Polk County, Oregon, US","Polk County, Oregon, United States","(44.879673, -123.4599594, 0.0)"
+"Langhorne Creek-Limestone Coast, South Australia, Australia",,
+"Listrac, Bordeaux, France","Listrac, Rue Thomas Edison, France Alouette, Canéjan, Bordeaux, Nouvelle-Aquitaine, France métropolitaine, France","(44.77638175, -0.6511353707567646, 0.0)"
+"St.-Amour, Beaujolais, France",,
+"Coteaux du Tricastin, Rhône Valley, France","Avenue des Coteaux du Tricastin, Saint-Paul-Trois-Châteaux, Nyons, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26130, France","(44.3459456, 4.7640609, 0.0)"
