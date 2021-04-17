@@ -11,3 +11,6 @@ Group project to determine how which wines are good based on consumer reports an
 I am researching how to convert regions into latitudes and longitudes so that we can map the wine regions.
 * https://researchguides.uoregon.edu/geocoding/free-batch
 * https://towardsdatascience.com/pythons-geocoding-convert-a-list-of-addresses-into-a-map-f522ef513fd6
+#### Gina 4_17_21
+* https://towardsdatascience.com/geocode-with-python-161ec1e62b89 - I got this code to work on a single location, but I'm not sure if I will eventually get an output for the 1236 unique locations that I was able to create. I need to create a new csv file with the locations from the dataframe.
+* I am planning to create a new table on pgAdmin with the cleaned data from Jess's work.
