@@ -41,3 +41,8 @@ Slack is used for discussions about project planning and excecution.
 ### Data
 - Wine variety csv files (“Red.csv”, ”White.csv”, ”Rose.csv”, ”Sparkling.csv”)
 - Wine Magazine top 150K Wines ([Kaggle](https://www.kaggle.com/zynicide/wine-reviews?select=winemag-data_first150k.csv))
+
+
+### Test 
+
+Testing to see how the readme will work to see how it changes during an merge. 
