@@ -10,7 +10,7 @@ Group project to determine how which wines are good based on consumer reports an
 * Binned Data File: [winemag-data_binned.csv](https://whats-in-a-bottle.s3-us-west-1.amazonaws.com/winemag-data_binned.csv)
     * This file contains the information for the rescaled data file, but the categorical columns have been binned to reduce the number of unique values in each column.
 
-* **Cleaned Data File:** [winemag-data_cleaned.csv](https://whats-in-a-bottle.s3-us-west-1.amazonaws.com/winemag-data_cleaned.csv)
+* **Cleaned Data File:** [winemag-data_cleaned.csv](https://whats-in-a-bottle.s3-us-west-1.amazonaws.com/winemag-data_cleaned_primaryKey.csv)
     * **Download this file to use for model training**
     * All columns have been converted to numeric data types and categorical columns have been encoded with the label encoder. Additionally, the [features] column, which originally contained a list of lists in each row, have been separated so that each number is now in it's own column. These columns are labeled with numbers staring at '1'. Wines with longer descriptions had more features, and thus fill up more columns for the separated features than shorter descriptions. 
 
@@ -34,6 +34,10 @@ Group project to determine how which wines are good based on consumer reports an
 
 4-19-21
 * Encoded the cleaned dataframe with the label encoder instead of the one hot encoder to consolidate column variables.
+
+4-21-21
+* Added a primary key to the cleaned data file ("_c0"), so that we can trace back specific rows to the original data frame. 
+
 
 ### Outline
 ![](Resources/Images/outline.png)
