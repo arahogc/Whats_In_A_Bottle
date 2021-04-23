@@ -8,7 +8,7 @@ Group project to determine how which wines are good based on consumer reports an
  
 *Advanced goal*- locate similar wines nearby that the user can purchase (e.g. “you can buy this wine at the 7/11 around the corner”)
  
-### Steps to Achieve Goals:
+#### Steps to Achieve Goals:
 
 *Basic Goal:*
 - Retrieve and clean data
@@ -33,12 +33,12 @@ Group project to determine how which wines are good based on consumer reports an
 
 Outline of the resources and technologies that will be used during this project. Subject to change. 
 
-### Communication Protocols
+#### Communication Protocols
 Each team member has an individual GitHub branch. When a branch is ready to be merged with the main branch, team members will create a pull request. The Square role will review and approve all pull requests. 
 
 Slack is used for discussions about project planning and excecution.
 
-### Roles
+#### Roles
 - Square: Chelsea
 - Triangle: Paige
 - Circle: Gina
@@ -60,7 +60,7 @@ Slack is used for discussions about project planning and excecution.
      
     ![](Resources/Images/cleaned_dtypes.png)
 
-### Data Preprocessing 
+#### Data Preprocessing 
 1. Check the null values in each column and drop columns with large number of null values (>50% null)
 2. Fill null values for columns we want to keep with "N/A", then drop remaining rows with null values
 3. NLP Pipeline - Transform the description column to numeric:<br>
