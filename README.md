@@ -9,7 +9,6 @@ Group project to determine how which wines are good based on consumer reports an
 *Advanced goal*- locate similar wines nearby that the user can purchase (e.g. “you can buy this wine at the 7/11 around the corner”)
  
 #### Steps to Achieve Goals:
-
 *Basic Goal:*
 - Retrieve and clean data
 - Train models
@@ -43,9 +42,7 @@ Slack is used for discussions about project planning and excecution.
 Outline of the resources and technologies that will be used during this project. Subject to change.
 ![](Resources/Images/outline.png)
 
-
 ## Data
-
 #### S3 Files
 * Raw Data File: [winemag-data_first150k.csv](https://whats-in-a-bottle.s3-us-west-1.amazonaws.com/winemag-data_first150k.csv)
     ![](Resources/Images/raw_df.png)
