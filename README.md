@@ -45,6 +45,8 @@ Slack is used for discussions about project planning and excecution.
 
 
 ## Data
+
+#### S3 Files
 * Raw Data File: [winemag-data_first150k.csv](https://whats-in-a-bottle.s3-us-west-1.amazonaws.com/winemag-data_first150k.csv)
     ![](Resources/Images/raw_df.png)
 
