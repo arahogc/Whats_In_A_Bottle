@@ -39,7 +39,7 @@ Slack is used for discussions about project planning and excecution.
 - Circle: Gina
 - X: Jess
 
-### Model Development Outline
+## Model Development Outline
 Outline of the resources and technologies that will be used during this project. Subject to change.
 ![](Resources/Images/outline.png)
 
