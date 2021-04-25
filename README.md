@@ -28,10 +28,6 @@ Group project to determine how which wines are good based on consumer reports an
 *Advanced goal*
 - Use javascript/html using sales data from wine vendors to map out vendors selling recommended wines in given region (would require input from user)
 
-#### Model Development Outline
-Outline of the resources and technologies that will be used during this project. Subject to change.
-![](Resources/Images/outline.png)
- 
 #### Communication Protocols
 Each team member has an individual GitHub branch. When a branch is ready to be merged with the main branch, team members will create a pull request. The Square role will review and approve all pull requests. 
 
@@ -42,6 +38,10 @@ Slack is used for discussions about project planning and excecution.
 - Triangle: Paige
 - Circle: Gina
 - X: Jess
+
+### Model Development Outline
+Outline of the resources and technologies that will be used during this project. Subject to change.
+![](Resources/Images/outline.png)
 
 
 ## Data
