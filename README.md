@@ -87,7 +87,7 @@ During the preprocessing and cleaning, data was saved as csv files in s3 at mult
     ![](Resources/Images/encodeLabels.png)
 
 
-* Cleaned Data with Labels: [winemag_data_cleaned_withLabels.csv] (https://whats-in-a-bottle.s3-us-west-1.amazonaws.com/winemag-data_cleaned_withLabels.csv)
+* Cleaned Data with Labels: [winemag_data_cleaned_withLabels.csv](https://whats-in-a-bottle.s3-us-west-1.amazonaws.com/winemag-data_cleaned_withLabels.csv)
     * This file contains all the information from the cleaned data file, with additional columns containig the original categorical variables. You can use this file to train additional models without having to rename each encoded label (i.e. changing region "6" to "Napa Valley")
     ![](Resources/Images/cleaned_df_withLabels.png)
     
