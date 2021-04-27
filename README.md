@@ -80,3 +80,15 @@ During the preprocessing and cleaning, data was saved as csv files in s3 at mult
     * All columns have been converted to numeric data types and categorical columns have been encoded with the label encoder. The first column [_c0] is the primary key that connects the cleaned data back to the original data. Additionally, the [features] column, which originally contained a list of lists in each row, have been separated so that each number is now in it's own column. The top ten words for each wine were kept for model training:
     ![](Resources/Images/cleaned_df.png)
     ![](Resources/Images/cleaned_dtypes.png)
+
+
+* Labels Data File: [winemag-data_encodingLabels.csv](https://whats-in-a-bottle.s3-us-west-1.amazonaws.com/winemag-data_encodingLabels.csv)
+    * This file contains the numeric labels that correspond to each encoded categorical value
+    ![](Resources/Images/encodeLabels.png)
+
+
+* Cleaned Data with Labels: [winemag_data_cleaned_withLabels.csv] (https://whats-in-a-bottle.s3-us-west-1.amazonaws.com/winemag-data_cleaned_withLabels.csv)
+    * This file contains all the information from the cleaned data file, with additional columns containig the original categorical variables. You can use this file to train additional models without having to rename each encoded label (i.e. changing region "6" to "Napa Valley")
+    ![](Resources/Images/cleaned_df_withLabels.png)
+    
+
