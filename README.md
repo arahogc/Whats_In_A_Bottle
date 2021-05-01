@@ -39,19 +39,29 @@ Slack is used for discussions about project planning and excecution.
 - X: Jess
 
 ## Model Development Outline
-Outline of the resources and technologies that will be used during this project. Subject to change.
+Outline of the resources and technologies that will be used during this project. 
 ![](Resources/Images/outline.png)
+
 
 ## Data
 #### Data Preprocessing 
 1. Check the null values in each column and drop columns with large number of null values (>50% null)
 2. Fill null values for columns we want to keep with "N/A", then drop remaining rows with null values
 3. NLP Pipeline - Transform the description column to numeric:<br>
+      ![](Resources/Images/tf-idf.png)
       a) Tokenize the description column<br>
-      b) Remove Stop words from the tokenized description<br>
-      c) Count the number of tokens and add a new column to the df<br>
-      d) Encode the filtered description tokens<br>
+      ![](Resources/Images/description.png)
+      ![](Resources/Images/words.png)
+      b) Remove Stop words from the tokenized description (filtered)<br>
+      ![](Resources/Images/filtered.png)
+      c) Count the number of tokens (with and without stop words) and add as new columns to the dataframe<br>
+      d) Calculate the TF-IDF (Term Frequency Inver Document Frequency) of the filtered words for each row to generete "features" that weight the words from the description by order of statistical importance<br>
+      ![](Resources/Images/features.png)
+      e) Parse the "features" vector into separate columns and rank by order of importance. We will use the top ten words for each row in the machine learning model
+      ![](Resources/Images/features_separated.png)
+
 4. Bin data in categorical columns with more than X unique values
+    ![](Resources/Images/binned_values.png)
 5. Encode the categorical columns with the Label Encoder
 6. Check the final cleaned dataframe for missing data or null values
 7. Export the dataframe as a csv file and store in database
@@ -76,7 +86,6 @@ During the preprocessing and cleaning, data was saved as csv files in s3 at mult
     ![](Resources/Images/binned_df.png)
 
 * **Cleaned Data File:** [winemag-data_cleaned.csv](https://whats-in-a-bottle.s3-us-west-1.amazonaws.com/winemag-data_cleaned_primaryKey.csv)
-    * **Download this file to use for model training**
     * All columns have been converted to numeric data types and categorical columns have been encoded with the label encoder. The first column [_c0] is the primary key that connects the cleaned data back to the original data. Additionally, the [features] column, which originally contained a list of lists in each row, have been separated so that each number is now in it's own column. The top ten words for each wine were kept for model training:
     ![](Resources/Images/cleaned_df.png)
     ![](Resources/Images/cleaned_dtypes.png)
@@ -92,3 +101,5 @@ During the preprocessing and cleaning, data was saved as csv files in s3 at mult
     ![](Resources/Images/cleaned_df_withLabels.png)
     
 
+## Description WordCloud Analysis
+WordCloud analysis counts the number of unqique values (words) in a column and tallies the count for each value. Words with 
