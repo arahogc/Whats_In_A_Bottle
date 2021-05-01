@@ -49,14 +49,19 @@ Outline of the resources and technologies that will be used during this project.
 2. Fill null values for columns we want to keep with "N/A", then drop remaining rows with null values
 3. NLP Pipeline - Transform the description column to numeric:<br>
       ![](Resources/Images/tf-idf.png)
+      
       a) Tokenize the description column<br>
       ![](Resources/Images/description.png)
       ![](Resources/Images/words.png)
+
       b) Remove Stop words from the tokenized description (filtered)<br>
       ![](Resources/Images/filtered.png)
+
       c) Count the number of tokens (with and without stop words) and add as new columns to the dataframe<br>
+
       d) Calculate the TF-IDF (Term Frequency Inver Document Frequency) of the filtered words for each row to generete "features" that weight the words from the description by order of statistical importance<br>
       ![](Resources/Images/features.png)
+
       e) Parse the "features" vector into separate columns and rank by order of importance. We will use the top ten words for each row in the machine learning model
       ![](Resources/Images/features_separated.png)
 
