@@ -49,6 +49,7 @@ Group project to determine how which wines are good based on consumer reports an
 ![country_features.PNG](Resources/country_features.PNG)
 
 ## Wine Trends by Country (second model):
+#### We decided to run the Country model again after dropping all location specific data - as these features had over 85% weight and resulted in a 97% accuracy, 92% average precision, and 92% average recall in the original Country model. The following shows the results after dropping location specific data:
 ![country2_model.PNG](Resources/country2_model.PNG)
 
 ![country2_features.PNG](Resources/country2_features.PNG)
