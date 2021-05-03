@@ -106,4 +106,33 @@ During the preprocessing and cleaning, data was saved as csv files in s3 at mult
     
 
 ## Description WordCloud Analysis
-WordCloud analysis counts the number of unqique values (words) in a column and tallies the count for each value. Words with 
+WordCloud analysis counts the number of unqique values (words) in a column and tallies the count for each value. The size of the word within the WordCloud is determined by its frequency. The higher the frequency, the larger the word. The description column for the entire dataset was analyzed first, and then filtered to generate WordClouds from wines categorized by price and points. 
+
+#### *Total Wines*
+WordCloud analysis from all wine descriptions within the dataset.
+![](Resources/Images/WordClouds/WordCloud_total.png)
+
+#### *Points: Excellent (90+ Point Rating)*
+![](Resources/Images/WordClouds/WordCloud_points_excellent.png)
+
+#### *Points: Good (88 - 88.9 Point Rating)*
+![](Resources/Images/WordClouds/WordCloud_points_good.png)
+
+#### *Points: Average (86 - 87.9 Point Rating)*
+![](Resources/Images/WordClouds/WordCloud_points_average.png)
+
+#### *Points: Ok (80 - 85.9 Point Rating)*
+![](Resources/Images/WordClouds/WordCloud_points_ok.png)
+
+#### *Price: Top Shelf ($40 - $2300 Per Bottle)*
+![](Resources/Images/WordClouds/WordCloud_price_topshelf.png)
+
+#### *Price: High ($24 - $39.9 Per Bottle)*
+![](Resources/Images/WordClouds/WordCloud_price_high.png)
+
+#### *Price: Medium ($16 - $23.9 Per Bottle)*
+![](Resources/Images/WordClouds/WordCloud_price_medium.png)
+
+#### *Price: Low ($4 - $15.9 Per Bottle)*
+![](Resources/Images/WordClouds/WordCloud_price_low.png)
+
