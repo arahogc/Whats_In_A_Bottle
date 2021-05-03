@@ -3,14 +3,24 @@ Group project to determine how which wines are good based on consumer reports an
 
 ## Machine Learning Model:
 
-#### Description of preliminary data preprocessing
-#### Description of preliminary feature engineering and preliminary feature selection, including the decision-making process
+### Description of preliminary data preprocessing
+### Description of preliminary feature engineering and preliminary feature selection, including the decision-making process
+#### 1. Any qualitative data was transformed to quantitative
+#### 2. points were ranked from 80-100; since this was used as the target set on the initial model, we decided to assign a new rating in order to simplify.  The new rating was determined on the points quartile ranges as noted below:
 
+![points_stats.PNG](Resources/points_stats.PNG)
+![points_range.PNG](Resources/points_range.PNG)
 
+#### The prices were also re-ranked in a similar fashion.  Original prices noted spanned from $4 to $$2,300.  The new rating was determined and assigned per the following:
 
-#### Description of how data was split into training and testing sets
-#### Explanation of model choice, including limitations and benefits
-#### how does the model address the initial question?
+![price_stats.PNG](Resources/price_stats.PNG)
+![price_range.PNG](Resources/price_range.PNG)
+
+#### The final model we decided to run had 'Countries' as the target set.  The original data contained 13 countries; all countries were retained and labeled 0 to 12 in alphabetical order.  
+
+### Description of how data was split into training and testing sets
+### Explanation of model choice, including limitations and benefits
+### how does the model address the initial question?
 
 ## Wine Trends by Points:
 ![points_model.PNG](Resources/points_model.PNG)
