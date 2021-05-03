@@ -29,7 +29,7 @@ Group project to determine how which wines are good based on consumer reports an
 #### Decision Tree Classifier (will add more)
 
 ### how does the model address the initial question?
-(will add more)
+(will add more - will speak to correlations found/weight of features/how this relates back to question)
 
 ## Machine Learning Model Results:
 
