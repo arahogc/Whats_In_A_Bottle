@@ -106,7 +106,7 @@ During the preprocessing and cleaning, data was saved as csv files in s3 at mult
     
 
 ## Description WordCloud Analysis
-WordCloud analysis counts the number of unqique values (words) in a column and tallies the count for each value. The size of the word within the WordCloud is determined by its frequency. The higher the frequency, the larger the word. The description column for the entire dataset was analyzed first, and then filtered to generate WordClouds from wines categorized by price and points. 
+WordCloud analysis counts the number of unique values (words) in a column and tallies the count for each value. The size of the word within the WordCloud is determined by its frequency. The higher the frequency, the larger the word. The description column for the entire dataset was analyzed first, and then filtered to generate WordClouds from wines categorized by price and points. 
 
 #### *Total Wines*
 WordCloud analysis from all wine descriptions within the dataset.
