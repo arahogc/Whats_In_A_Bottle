@@ -1,77 +1,19 @@
 # Whats_In_A_Bottle
-Group project to determine how which wines are good based on consumer reports and contents of the wine
 
-## Goals:
-*Basic* - Build a machine learning model that can predict wine quality based on the wine’s description, year, variety, region, and consumer reports.
- 
-*Intermediate goal*- give recommendations of wines based on specific variables (e.g. “based on the description/details of this wine, this region would be preferred”)
- 
-*Advanced goal*- locate similar wines nearby that the user can purchase (e.g. “you can buy this wine at the 7/11 around the corner”)
- 
-#### Steps to Achieve Goals:
-*Basic Goal:*
-- Retrieve and clean data
-- Train models
-- Visualize data of wine contents and consumer reports of wine
- 
-*Intermediate goal*
-- Write for loops (or other functions that are better) that will give list of similar wines
-    - Example: For wine in wine_list:
-        If region is x% of wine,
-        If designation is y% of wine, etc etc,
-        Then add wine to recommended_list
-        Print(recommended_list)
-    
-- Train a model on the wine magazine top 150K wines list and provide recommendations for wines from the wine variety csv files.
- 
-*Advanced goal*
-- Use javascript/html using sales data from wine vendors to map out vendors selling recommended wines in given region (would require input from user)
+### Question: Can a machine learning model be able to predict the quality, price, region, and type of of wine based on the descriptive words and other characteristics? 
 
-#### Communication Protocols
-Each team member has an individual GitHub branch. When a branch is ready to be merged with the main branch, team members will create a pull request. The Square role will review and approve all pull requests. 
+## Approach: 
 
-Slack is used for discussions about project planning and excecution.
-
-#### Roles
-- Square: Chelsea
-- Triangle: Paige
-- Circle: Gina
-- X: Jess
-
-## Model Development Outline
-Outline of the resources and technologies that will be used during this project. 
+### Model Development Outline
+Outline of the resources and technologies that will be used during this project. Subject to change.
 ![](Resources/Images/outline.png)
 
-
-## Data
+### Data
 #### Data Preprocessing 
-1. Check the null values in each column and drop columns with large number of null values (>50% null)
-2. Fill null values for columns we want to keep with "N/A", then drop remaining rows with null values
-3. NLP Pipeline - Transform the description column to numeric:<br>
-      ![](Resources/Images/tf-idf.png)
 
-      a) Tokenize the description column<br>
-      ![](Resources/Images/description.png)
-      ![](Resources/Images/words.png)
+Many, if not all, of the columns had many null values. Columns that had more than 50% than null values were dropped while the rest of the columns' null values were replaced as "N/A". This cleaned data was then futhered processed using the Natural Language Processing (NLP) by first tokenizing the description column and removing the stop words. The tokens were then counted and added to a new column. This counted token column was then encoded and binned into categorical columns with more than X unique values. This final dataframe was then checked for missing or null values and exported as a csv file to be stored in databases. Below are checkpoint files for each stop of cleaning and processing the data. 
 
-      b) Remove Stop words from the tokenized description (filtered)<br>
-      ![](Resources/Images/filtered.png)
-
-      c) Count the number of tokens (with and without stop words) and add as new columns to the dataframe<br>
-
-      d) Calculate the TF-IDF (Term Frequency Inver Document Frequency) of the filtered words for each row to generete "features" that weight the words from the description by order of statistical importance<br>
-      ![](Resources/Images/features.png)
-
-      e) Parse the "features" vector into separate columns and rank by order of importance. We will use the top ten words for each row in the machine learning model
-      ![](Resources/Images/features_separated.png)
-
-4. Bin data in categorical columns with more than X unique values
-    ![](Resources/Images/binned_values.png)
-5. Encode the categorical columns with the Label Encoder
-6. Check the final cleaned dataframe for missing data or null values
-7. Export the dataframe as a csv file and store in database
-
-#### S3 Files
+##### S3 Files
 During the preprocessing and cleaning, data was saved as csv files in s3 at multiple steps for checkpointing. If one step of the preprocessing needs to be adjusted, a checkpoint file can be imported so that the entire process does not need to be run each time. 
 
 * Raw Data File: [winemag-data_first150k.csv](https://whats-in-a-bottle.s3-us-west-1.amazonaws.com/winemag-data_first150k.csv)
@@ -85,7 +27,6 @@ During the preprocessing and cleaning, data was saved as csv files in s3 at mult
     * This file contains only information relating to the description natural language processing (NLP) pipeline.
     ![](Resources/Images/descriptionNLP.png)
 
-
 * Binned Data File: [winemag-data_binned.csv](https://whats-in-a-bottle.s3-us-west-1.amazonaws.com/winemag-data_binned.csv)
     * This file contains the information for the rescaled data file, but the categorical columns have been binned to reduce the number of unique values in each column.
     ![](Resources/Images/binned_df.png)
@@ -93,16 +34,59 @@ During the preprocessing and cleaning, data was saved as csv files in s3 at mult
 * **Cleaned Data File:** [winemag-data_cleaned.csv](https://whats-in-a-bottle.s3-us-west-1.amazonaws.com/winemag-data_cleaned_primaryKey.csv)
     * All columns have been converted to numeric data types and categorical columns have been encoded with the label encoder. The first column [_c0] is the primary key that connects the cleaned data back to the original data. Additionally, the [features] column, which originally contained a list of lists in each row, have been separated so that each number is now in it's own column. The top ten words for each wine were kept for model training:
     ![](Resources/Images/cleaned_df.png)
+    ![](Resources/Images/cleaned_dtypes.png)
+    
+### Machine Learning Models
+#### Machine Learning Process 
 
+Since the data was pretty clean due to the previous step of organizing and cleaning the data, there was very little additional cleaning the data for the machine learning model. The machine model chosen was a decision tree classifer. 
 
-* Labels Data File: [winemag-data_encodingLabels.csv](https://whats-in-a-bottle.s3-us-west-1.amazonaws.com/winemag-data_encodingLabels.csv)
-    * This file contains the numeric labels that correspond to each encoded categorical value
-    ![](Resources/Images/encodeLabels.png)
+For all machine models, any qualitative data was transformed into quantitaive data (Example??). Then some of the data was binned into different categories. For example, the points system were ranked from 80-100. Using quartitle ranges, we could split the points into different qualitative groups (e.g. 90-100 points meant that the wine was "excellent"). This can be seen below. 
 
+![points_stats.PNG](Resources/points_stats.PNG)
+![points_range.PNG](Resources/points_range.PNG)
 
-* Cleaned Data with Labels: [winemag_data_cleaned_withLabels.csv](https://whats-in-a-bottle.s3-us-west-1.amazonaws.com/winemag-data_cleaned_withLabels.csv)
-    * This file contains all the information from the cleaned data file, with additional columns containig the original categorical variables. You can use this file to train additional models without having to rename each encoded label (i.e. changing region "6" to "Napa Valley")
-    ![](Resources/Images/cleaned_df_withLabels.png)
+The prices were also re-ranked in a similar fashion.  Original prices noted spanned from $4 to $$2,300.  The new rating was determined and assigned per the following:
+
+![price_stats.PNG](Resources/price_stats.PNG)
+![price_range.PNG](Resources/price_range.PNG)
+
+The final model we decided to run had 'Countries' as the target set.  The original data contained 13 countries; all countries were retained and labeled 0 to 12 in alphabetical order.  
+
+![country_list.PNG](Resources/country_list.PNG)
+
+### Description of how data was split into training and testing sets
+#### training size = .8 (will add more)
+
+### Explanation of model choice, including limitations and benefits
+#### Decision Tree Classifier (will add more)
+
+### how does the model address the initial question?
+(will add more - will speak to correlations found/weight of features/how this relates back to question)
+
+## Machine Learning Model Results:
+
+## Wine Trends by Points:
+![points_model.PNG](Resources/points_model.PNG)
+
+![points_features.PNG](Resources/points_features.PNG)
+
+## Wine Trends by Price:
+![price_model.PNG](Resources/price_model.PNG)
+
+![price_features.PNG](Resources/price_features.PNG)
+
+## Wine Trends by Country:
+![country_model.PNG](Resources/country_model.PNG)
+
+![country_features.PNG](Resources/country_features.PNG)
+
+## Wine Trends by Country (second model):
+#### We decided to run the Country model again after dropping all location specific data - as these features had over 85% weight and resulted in a 97% accuracy, 92% average precision, and 92% average recall in the original Country model. The following shows the results after dropping location specific data:
+![country2_model.PNG](Resources/country2_model.PNG)
+
+![country2_features.PNG](Resources/country2_features.PNG)
+
     
 
 ## Description WordCloud Analysis
