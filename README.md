@@ -85,11 +85,7 @@ The final model we decided to run had 'Countries' as the target set.  The origin
 #### We decided to run the Country model again after dropping all location specific data - as these features had over 85% weight and resulted in a 97% accuracy, 92% average precision, and 92% average recall in the original Country model. The following shows the results after dropping location specific data:
 ![country2_model.PNG](Resources/country2_model.PNG)
 
-![country2_features.PNG](Resources/country2_features.PNG)
-
-<<<<<<< Jess
-
-    
+![country2_features.PNG](Resources/country2_features.PNG)    
 
 ## Description WordCloud Analysis
 WordCloud analysis counts the number of unique values (words) in a column and tallies the count for each value. The size of the word within the WordCloud is determined by its frequency. The higher the frequency, the larger the word. The description column for the entire dataset was analyzed first, and then filtered to generate WordClouds from wines categorized by price and points. 
@@ -122,5 +118,3 @@ WordCloud analysis from all wine descriptions within the dataset.
 #### *Price: Low ($4 - $15.9 Per Bottle)*
 ![](Resources/Images/WordClouds/WordCloud_price_low.png)
 
-=======
->>>>>>> main
