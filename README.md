@@ -83,9 +83,10 @@ It was decided to run the Country model again after dropping all location specif
 Reviewing the features in the models we can see the top features were often price and/or points. However, there seemed to be some instances where each model used some descriptive words in the machine models. 
 
 ### Presentation 
-Link to our presentation is here: https://docs.google.com/presentation/d/1aN5FHNQKAEwrTPdRT2I2oPqPI9kFkRrMUlFERHwxtSA/edit#slide=id.gd6b93f1566_0_0
-The presentation also shows some word cloud visualizations of each category of wines (e.g. "top shelf", "expensive", "good", etc etc). You can see that each group has different words used to descripe that them, which is an interesting trend to see that you do not see within the machine models. 
+Link to our presentation is here: [Presentation](https://docs.google.com/presentation/d/1aN5FHNQKAEwrTPdRT2I2oPqPI9kFkRrMUlFERHwxtSA/edit#slide=id.gd6b93f1566_0_0)
+The presentation also shows some word cloud visualizations of each category of wines (e.g. "top shelf", "expensive", "good", etc etc). 
+You can see that each group has different words used to descripe that them, which is an interesting trend to see that you do not see within the machine models. 
 
 ### Tableau 
-Some visuals for the project, such as seeing what each country's wine quality or price is grouped, can be seen on tableau here: 
+Some visuals for the project, such as seeing what each country's wine quality or price is grouped, can be seen on tableau here: [Tableau](https://public.tableau.com/profile/paige.spiller#!/vizhome/WineryLocations_16198920961010/WhatsinaBottleStory)
 
